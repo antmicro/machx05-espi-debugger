@@ -1132,16 +1132,6 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 85.09) (xy 142.24 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0d4186f1-5755-4021-bd8a-c2aa31bd6900")
-	)
-	(wire
-		(pts
 			(xy 182.88 83.82) (xy 177.8 83.82)
 		)
 		(stroke
@@ -1159,16 +1149,6 @@
 			(type default)
 		)
 		(uuid "12a79810-4743-4b86-ad48-eb5c2ed8cd4a")
-	)
-	(wire
-		(pts
-			(xy 142.24 88.9) (xy 144.78 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "12b0cf6c-4987-4654-b6d8-d70637f03fb2")
 	)
 	(wire
 		(pts
@@ -1292,7 +1272,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 85.09) (xy 142.24 85.09)
+			(xy 127 86.36) (xy 144.78 86.36)
 		)
 		(stroke
 			(width 0)
@@ -1380,16 +1360,6 @@
 		)
 		(uuid "a9c73b62-56f0-405e-a3a0-cc9b59438b04")
 	)
-	(wire
-		(pts
-			(xy 142.24 86.36) (xy 144.78 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "abb904ae-5f43-49ee-b39b-8c5367d37106")
-	)
 	(bus
 		(pts
 			(xy 74.93 88.9) (xy 74.93 90.17)
@@ -1402,17 +1372,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 87.63) (xy 142.24 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b05906eb-65dd-4598-8075-785d933d1903")
-	)
-	(wire
-		(pts
-			(xy 149.86 119.38) (xy 152.4 119.38)
+			(xy 135.89 119.38) (xy 152.4 119.38)
 		)
 		(stroke
 			(width 0)
@@ -1462,7 +1422,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 87.63) (xy 142.24 87.63)
+			(xy 127 88.9) (xy 144.78 88.9)
 		)
 		(stroke
 			(width 0)
@@ -1690,6 +1650,16 @@
 		)
 		(uuid "6e5f338e-3731-4c35-87d1-30341c3d75b0")
 	)
+	(label "DC_SCM_12V_AUX"
+		(at 127 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "79c46f3d-701f-4486-b4b7-5891b77113f0")
+	)
 	(label "EC_ESPI.~{CS0}"
 		(at 149.86 128.27 180)
 		(effects
@@ -1749,6 +1719,16 @@
 			(justify right bottom)
 		)
 		(uuid "969ee885-689e-4046-8d77-36ad4380e99a")
+	)
+	(label "DC_SCM_12V_AUX"
+		(at 135.89 119.38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "98cd94bc-56a3-4a33-a128-cf29bbf0525b")
 	)
 	(label "EC_ESPI.~{CS0}_R"
 		(at 123.19 93.98 0)
@@ -1820,6 +1800,16 @@
 		)
 		(uuid "ec0c260f-7b7c-467a-9cb2-7255927855db")
 	)
+	(label "DC_SCM_P3V0"
+		(at 127 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ff95550c-1184-4087-a953-419288358bdb")
+	)
 	(hierarchical_label "DC_SCM_STBY_EN"
 		(shape output)
 		(at 149.86 115.57 180)
@@ -1842,17 +1832,6 @@
 		)
 		(uuid "63d66877-8e8c-4922-8024-f5cfe7e3a458")
 	)
-	(hierarchical_label "DC_SCM_P3V0"
-		(shape output)
-		(at 140.97 85.09 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "64005595-de16-410b-8cdb-3bc7251e46af")
-	)
 	(hierarchical_label "DC_SCM_STBY_EN"
 		(shape output)
 		(at 158.75 86.36 0)
@@ -1874,28 +1853,6 @@
 			(justify right)
 		)
 		(uuid "86f6b9e4-d665-4619-97f0-10e42fd388f4")
-	)
-	(hierarchical_label "DC_SCM_12V_AUX"
-		(shape output)
-		(at 149.86 119.38 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "a6390eb7-1808-43c8-82e1-c8e400192a89")
-	)
-	(hierarchical_label "DC_SCM_12V_AUX"
-		(shape output)
-		(at 140.97 87.63 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "e78888ff-79f3-4e97-a854-1751242a9063")
 	)
 	(netclass_flag ""
 		(length 2.54)
