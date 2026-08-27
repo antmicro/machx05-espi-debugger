@@ -712,6 +712,16 @@
 		(color 0 0 0 0)
 		(uuid "31ec66b0-5dc8-4f28-9642-fe9e8241ab9c")
 	)
+	(wire
+		(pts
+			(xy 176.53 104.14) (xy 217.17 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36ccabd2-8a66-4384-aff5-df57f6111ffc")
+	)
 	(bus
 		(pts
 			(xy 67.31 96.52) (xy 115.57 96.52)
@@ -724,7 +734,17 @@
 	)
 	(bus
 		(pts
-			(xy 176.53 121.92) (xy 214.63 121.92)
+			(xy 176.53 101.6) (xy 217.17 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d8a155b-decb-4c4d-b3ff-05d332952db0")
+	)
+	(bus
+		(pts
+			(xy 176.53 93.98) (xy 217.17 93.98)
 		)
 		(stroke
 			(width 0)
@@ -771,6 +791,16 @@
 			(type default)
 		)
 		(uuid "6c6152c3-99c8-45ce-98d2-0aacafeac9b6")
+	)
+	(bus
+		(pts
+			(xy 176.53 99.06) (xy 217.17 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ab317ef-27b7-4b4c-85e7-826ecf45c43f")
 	)
 	(wire
 		(pts
@@ -834,6 +864,16 @@
 	)
 	(wire
 		(pts
+			(xy 176.53 106.68) (xy 217.17 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c14aae51-acb8-48ba-9b27-8ae7a9ca5f35")
+	)
+	(wire
+		(pts
 			(xy 19.05 158.75) (xy 19.05 166.37)
 		)
 		(stroke
@@ -864,7 +904,7 @@
 	)
 	(bus
 		(pts
-			(xy 176.53 128.27) (xy 214.63 128.27)
+			(xy 176.53 96.52) (xy 217.17 96.52)
 		)
 		(stroke
 			(width 0)
@@ -891,16 +931,6 @@
 			(type default)
 		)
 		(uuid "ee8b457b-489b-4901-8b9d-91bcf9036adc")
-	)
-	(bus
-		(pts
-			(xy 176.53 82.55) (xy 214.63 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f1d700c2-3d7b-4c4d-8a56-dc3b863fa6a2")
 	)
 	(wire
 		(pts
@@ -2598,7 +2628,7 @@
 				(justify left top)
 			)
 		)
-		(pin "EC_JTAG{JTAG}" bidirectional
+		(pin "JTAG{JTAG}" bidirectional
 			(at 67.31 96.52 0)
 			(uuid "d1ca4d75-51ca-40a8-a893-0bbb9adee400")
 			(effects
@@ -2608,7 +2638,7 @@
 				(justify right)
 			)
 		)
-		(pin "EC_UART0{UART}" bidirectional
+		(pin "UART0{UART}" bidirectional
 			(at 67.31 93.98 0)
 			(uuid "3b297e66-3259-436b-924c-155510f15e71")
 			(effects
@@ -2637,8 +2667,8 @@
 		)
 	)
 	(sheet
-		(at 214.63 118.11)
-		(size 27.94 13.97)
+		(at 217.17 90.17)
+		(size 27.94 21.59)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -2653,7 +2683,7 @@
 		)
 		(uuid "76679e57-0420-4874-b75d-368e938745be")
 		(property "Sheetname" "Port80 LEDs"
-			(at 214.63 117.3984 0)
+			(at 217.17 89.4584 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2664,7 +2694,7 @@
 			)
 		)
 		(property "Sheetfile" "port80-leds.kicad_sch"
-			(at 214.63 132.6646 0)
+			(at 217.17 112.3446 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2675,7 +2705,7 @@
 			)
 		)
 		(pin "7SEG_H{7SEG}" input
-			(at 214.63 121.92 180)
+			(at 217.17 93.98 180)
 			(uuid "60d089e5-4fd0-4a6c-841a-f37ff1189b66")
 			(effects
 				(font
@@ -2685,8 +2715,48 @@
 			)
 		)
 		(pin "7SEG_L{7SEG}" input
-			(at 214.63 128.27 180)
+			(at 217.17 96.52 180)
 			(uuid "2e996ce4-2945-49ae-bcd8-3c2d4f0da31b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DONE" input
+			(at 217.17 106.68 180)
+			(uuid "3c782d69-d6ae-4447-ac91-e8c53387ae30")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LED[0..3]" input
+			(at 217.17 99.06 180)
+			(uuid "6e9bcf2b-eb46-46ed-b549-1f24489b5d9e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LED[4..7]" input
+			(at 217.17 101.6 180)
+			(uuid "04a992a6-c2d8-4c4c-a0a3-4204ae849c1d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{INIT}" input
+			(at 217.17 104.14 180)
+			(uuid "89e61666-6495-41f4-bb7d-c1789c0c8c59")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2698,62 +2768,6 @@
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9"
 					(page "6")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 214.63 74.93)
-		(size 27.94 15.24)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "870b0b62-f962-4a87-8d30-5a8522c5db60")
-		(property "Sheetname" "Flash"
-			(at 214.63 74.2184 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "flash.kicad_sch"
-			(at 214.63 90.7546 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "EC_QSPI{QSPI}" bidirectional
-			(at 214.63 82.55 180)
-			(uuid "be276ea0-0a84-4e72-be53-6f0eeb2b2171")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(instances
-			(project "machxo5-espi-debugger"
-				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9"
-					(page "5")
 				)
 			)
 		)
@@ -2806,38 +2820,8 @@
 				(justify left)
 			)
 		)
-		(pin "EC_JTAG{JTAG}" bidirectional
-			(at 115.57 96.52 180)
-			(uuid "93b411cc-ee97-45dc-a152-84857d42f477")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "EC_QSPI{QSPI}" bidirectional
-			(at 176.53 82.55 0)
-			(uuid "bf5ed60a-8011-43ce-a2ed-c57e2c8ad946")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "EC_UART0{UART}" bidirectional
-			(at 115.57 93.98 180)
-			(uuid "13eca191-9caa-4297-a310-4791da6e2973")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "7SEG_H{7SEG}" output
-			(at 176.53 121.92 0)
+			(at 176.53 93.98 0)
 			(uuid "ebc7511b-f6b4-49c0-9987-ef1bb6f42b9c")
 			(effects
 				(font
@@ -2847,8 +2831,68 @@
 			)
 		)
 		(pin "7SEG_L{7SEG}" output
-			(at 176.53 128.27 0)
+			(at 176.53 96.52 0)
 			(uuid "f39d8c27-268c-42bf-a4f5-83511a1da5cd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DONE" output
+			(at 176.53 106.68 0)
+			(uuid "a283282e-7ed6-4503-b0a9-e5cdd2d7b181")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "FPGA_JTAG{JTAG}" bidirectional
+			(at 115.57 96.52 180)
+			(uuid "3b5bdf01-d826-431c-bcd4-f3fd9be7ee4b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "FPGA_UART{UART}" bidirectional
+			(at 115.57 93.98 180)
+			(uuid "ff288fe5-012a-4d3c-af5a-e8d74466a05b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "LED[0..3]" output
+			(at 176.53 99.06 0)
+			(uuid "b1eb2ceb-9e1b-40d6-a888-d17d9f7f2290")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "LED[4..7]" output
+			(at 176.53 101.6 0)
+			(uuid "da7fff96-e6f1-494d-b5d3-dea14413cc30")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "~{INIT}" output
+			(at 176.53 104.14 0)
+			(uuid "6603ab2a-2661-4a74-bacb-7f3b7a3bdddc")
 			(effects
 				(font
 					(size 1.27 1.27)
