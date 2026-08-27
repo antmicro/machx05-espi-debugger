@@ -13413,7 +13413,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 129.54) (xy 181.61 130.81)
+			(xy 181.61 128.27) (xy 181.61 130.81)
 		)
 		(stroke
 			(width 0)
@@ -13993,7 +13993,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 123.19) (xy 181.61 124.46)
+			(xy 181.61 121.92) (xy 181.61 123.19)
 		)
 		(stroke
 			(width 0)
@@ -16892,7 +16892,7 @@
 		(uuid "d9c1076a-89c0-4b8f-b7e0-aa5a8b6b5be0")
 	)
 	(label "JTAG_EN"
-		(at 184.15 130.81 0)
+		(at 186.69 130.81 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -21234,7 +21234,7 @@
 	)
 	(symbol
 		(lib_id "antmicropower:+3V3")
-		(at 181.61 123.19 0)
+		(at 181.61 121.92 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -21244,7 +21244,7 @@
 		(dnp no)
 		(uuid "1b112d00-a9d6-4ba6-b723-788918db6f83")
 		(property "Reference" "#PWR023"
-			(at 196.85 123.19 0)
+			(at 196.85 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21257,7 +21257,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 181.356 119.38 0)
+			(at 181.356 118.11 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21268,7 +21268,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 196.85 130.81 0)
+			(at 196.85 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21281,7 +21281,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 196.85 133.35 0)
+			(at 196.85 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21294,7 +21294,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 196.85 135.89 0)
+			(at 196.85 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21306,7 +21306,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 196.85 125.73 0)
+			(at 196.85 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21319,7 +21319,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 196.85 128.27 0)
+			(at 196.85 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32678,7 +32678,7 @@
 	)
 	(symbol
 		(lib_id "antmicroResistors0402:R_1k_0402")
-		(at 181.61 129.54 90)
+		(at 181.61 128.27 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -32688,7 +32688,7 @@
 		(dnp no)
 		(uuid "b582442c-5843-48c3-af30-d8dc2ed7754c")
 		(property "Reference" "R11"
-			(at 183.134 125.73 90)
+			(at 183.134 124.46 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -32700,7 +32700,7 @@
 			)
 		)
 		(property "Value" "R_1k_0402"
-			(at 194.31 109.22 0)
+			(at 194.31 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32713,7 +32713,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:R_0402_1005Metric"
-			(at 196.85 109.22 0)
+			(at 196.85 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32726,7 +32726,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.bourns.com/docs/product-datasheets/cr.pdf"
-			(at 199.39 109.22 0)
+			(at 199.39 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32739,7 +32739,7 @@
 			)
 		)
 		(property "Description" "SMD Chip Resistor, 1 kohm, ± 1%, 63 mW, 0402 [1005 Metric], Thick Film, General Purpose"
-			(at 212.09 109.22 0)
+			(at 212.09 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32751,7 +32751,7 @@
 			)
 		)
 		(property "MPN" "CR0402-FX-1001GLF"
-			(at 201.93 109.22 0)
+			(at 201.93 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32764,7 +32764,7 @@
 			)
 		)
 		(property "Manufacturer" "Bourns"
-			(at 204.47 109.22 0)
+			(at 204.47 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32777,7 +32777,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 207.01 109.22 0)
+			(at 207.01 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32790,7 +32790,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 209.55 109.22 0)
+			(at 209.55 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32803,7 +32803,7 @@
 			)
 		)
 		(property "Val" "1k"
-			(at 183.134 128.27 90)
+			(at 183.134 127 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -32815,7 +32815,7 @@
 			)
 		)
 		(property "Tolerance" "1%"
-			(at 191.77 109.22 0)
+			(at 191.77 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
