@@ -1152,7 +1152,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 115.57) (xy 152.4 115.57)
+			(xy 149.86 113.03) (xy 152.4 113.03)
 		)
 		(stroke
 			(width 0)
@@ -1249,6 +1249,16 @@
 			(type default)
 		)
 		(uuid "4d30aa98-9686-49d6-924b-071dbf32c0ad")
+	)
+	(wire
+		(pts
+			(xy 135.89 120.65) (xy 152.4 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5841aba7-e6d5-4b30-9223-91a8d755f67b")
 	)
 	(wire
 		(pts
@@ -1372,7 +1382,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 119.38) (xy 152.4 119.38)
+			(xy 135.89 116.84) (xy 152.4 116.84)
 		)
 		(stroke
 			(width 0)
@@ -1721,7 +1731,7 @@
 		(uuid "969ee885-689e-4046-8d77-36ad4380e99a")
 	)
 	(label "DC_SCM_12V_AUX"
-		(at 135.89 119.38 0)
+		(at 135.89 116.84 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1790,6 +1800,16 @@
 		)
 		(uuid "d989e16f-4401-44cf-8ab2-d496e657ffce")
 	)
+	(label "DC_SCM_P3V0"
+		(at 135.89 120.65 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e18597ad-1c3e-45d4-a4bb-c1157d97bc62")
+	)
 	(label "EC_ESPI.SCK"
 		(at 92.71 91.44 180)
 		(effects
@@ -1812,7 +1832,7 @@
 	)
 	(hierarchical_label "DC_SCM_STBY_EN"
 		(shape output)
-		(at 149.86 115.57 180)
+		(at 149.86 113.03 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3426,6 +3446,141 @@
 	)
 	(symbol
 		(lib_id "antmicroTestPoints:TP_1mm_SMD")
+		(at 152.4 120.65 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8e54f52e-ed31-442a-a8ef-bfe547e38984")
+		(property "Reference" "TP2001"
+			(at 157.48 120.65 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TP_1mm_SMD"
+			(at 167.64 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:TP_SMD_1mm"
+			(at 167.64 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 170.18 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "Test point 1mm SMD"
+			(at 167.64 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" ""
+			(at 152.4 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 152.4 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 167.64 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 167.64 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "8dd7475a-1002-454f-a9d4-37ff91925f36")
+		)
+		(instances
+			(project "machxo5-espi-debugger"
+				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/dad11b40-64da-40df-af81-feff62248020"
+					(reference "TP2001")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicroTestPoints:TP_1mm_SMD")
 		(at 152.4 124.46 0)
 		(unit 1)
 		(body_style 1)
@@ -3966,7 +4121,7 @@
 	)
 	(symbol
 		(lib_id "antmicroTestPoints:TP_1mm_SMD")
-		(at 152.4 115.57 0)
+		(at 152.4 113.03 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3977,7 +4132,7 @@
 		(fields_autoplaced yes)
 		(uuid "b9651d3b-10ad-440b-83e9-54d4a8aa21c9")
 		(property "Reference" "TP2002"
-			(at 157.48 115.57 0)
+			(at 157.48 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3989,7 +4144,7 @@
 			)
 		)
 		(property "Value" "TP_1mm_SMD"
-			(at 167.64 123.19 0)
+			(at 167.64 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4002,7 +4157,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:TP_SMD_1mm"
-			(at 167.64 125.73 0)
+			(at 167.64 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4015,7 +4170,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 170.18 128.27 0)
+			(at 170.18 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4028,7 +4183,7 @@
 			)
 		)
 		(property "Description" "Test point 1mm SMD"
-			(at 167.64 135.89 0)
+			(at 167.64 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4040,7 +4195,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 152.4 115.57 0)
+			(at 152.4 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4051,7 +4206,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 152.4 115.57 0)
+			(at 152.4 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4062,7 +4217,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 167.64 130.81 0)
+			(at 167.64 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4075,7 +4230,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 167.64 133.35 0)
+			(at 167.64 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4279,7 +4434,7 @@
 	)
 	(symbol
 		(lib_id "antmicroTestPoints:TP_1mm_SMD")
-		(at 152.4 119.38 0)
+		(at 152.4 116.84 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4290,7 +4445,7 @@
 		(fields_autoplaced yes)
 		(uuid "c554397e-3530-4c6d-8e2c-91fec8338b7c")
 		(property "Reference" "TP2003"
-			(at 157.48 119.38 0)
+			(at 157.48 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4302,7 +4457,7 @@
 			)
 		)
 		(property "Value" "TP_1mm_SMD"
-			(at 167.64 127 0)
+			(at 167.64 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4315,7 +4470,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:TP_SMD_1mm"
-			(at 167.64 129.54 0)
+			(at 167.64 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4328,7 +4483,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 170.18 132.08 0)
+			(at 170.18 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4341,7 +4496,7 @@
 			)
 		)
 		(property "Description" "Test point 1mm SMD"
-			(at 167.64 139.7 0)
+			(at 167.64 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4353,7 +4508,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 152.4 119.38 0)
+			(at 152.4 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4364,7 +4519,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 152.4 119.38 0)
+			(at 152.4 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4375,7 +4530,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 167.64 134.62 0)
+			(at 167.64 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4388,7 +4543,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 167.64 137.16 0)
+			(at 167.64 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
