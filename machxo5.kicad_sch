@@ -17202,7 +17202,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0145eda6-d2e9-42a7-b9b9-ca1d3d1f7013")
-		(property "Reference" "U3001"
+		(property "Reference" "U1"
 			(at 327.025 35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18441,7 +18441,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "U3001")
+					(reference "U1")
 					(unit 6)
 				)
 			)
@@ -18458,7 +18458,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "025b3b1a-5a6a-42a4-b50a-faa8a0873455")
-		(property "Reference" "#PWR03089"
+		(property "Reference" "#PWR06"
 			(at 60.96 226.06 0)
 			(hide yes)
 			(show_name no)
@@ -18552,7 +18552,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03089")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -18570,7 +18570,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "02dee75b-f43c-42d2-9ae0-dacc5f12a18f")
-		(property "Reference" "FB3004"
+		(property "Reference" "FB4"
 			(at 57.1119 255.27 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18716,7 +18716,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "FB3004")
+					(reference "FB4")
 					(unit 1)
 				)
 			)
@@ -18733,7 +18733,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "03f9fdbe-7373-45a1-85de-d9236506ecd0")
-		(property "Reference" "C3022"
+		(property "Reference" "C3"
 			(at 44.704 35.56 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18893,7 +18893,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3022")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -18910,7 +18910,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0bc9f3cb-29cc-484b-917f-c5f7954c2d87")
-		(property "Reference" "#PWR03083"
+		(property "Reference" "#PWR049"
 			(at 412.75 208.28 0)
 			(hide yes)
 			(show_name no)
@@ -19004,7 +19004,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03083")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -19022,7 +19022,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0bd02b56-85df-416a-807f-f23370edefbf")
-		(property "Reference" "C3010"
+		(property "Reference" "C32"
 			(at 252.73 266.6936 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19182,7 +19182,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3010")
+					(reference "C32")
 					(unit 1)
 				)
 			)
@@ -19200,7 +19200,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0dad8e7f-2598-45f5-bf5e-57f2419bb100")
-		(property "Reference" "FB3003"
+		(property "Reference" "FB3"
 			(at 57.1119 236.22 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19346,7 +19346,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "FB3003")
+					(reference "FB3")
 					(unit 1)
 				)
 			)
@@ -19364,7 +19364,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0fb15754-2617-4460-8007-c7da16a73b0f")
-		(property "Reference" "#PWR03098"
+		(property "Reference" "#PWR039"
 			(at 281.94 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -19458,7 +19458,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03098")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -19475,7 +19475,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "122792bb-013f-45f9-b0d4-d118d89e36f4")
-		(property "Reference" "#PWR03078"
+		(property "Reference" "#PWR015"
 			(at 105.41 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -19569,7 +19569,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03078")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -19587,7 +19587,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "13d991bb-0e3a-4eae-bd4a-acfde761ad90")
-		(property "Reference" "#PWR03001"
+		(property "Reference" "#PWR044"
 			(at 370.84 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -19681,7 +19681,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03001")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -19698,7 +19698,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1436284f-47f8-4169-a89a-7eac58f4dce4")
-		(property "Reference" "C3038"
+		(property "Reference" "C6"
 			(at 69.088 205.232 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19858,7 +19858,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3038")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -19875,7 +19875,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "159d3591-0c36-4a2e-8319-5de2b7cf0679")
-		(property "Reference" "#PWR03070"
+		(property "Reference" "#PWR017"
 			(at 130.81 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -19969,7 +19969,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03070")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -19987,7 +19987,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "174c57e6-e474-41bb-9e06-0d1776d42c45")
-		(property "Reference" "U3001"
+		(property "Reference" "U1"
 			(at 327.025 152.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21226,7 +21226,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "U3001")
+					(reference "U1")
 					(unit 5)
 				)
 			)
@@ -21243,7 +21243,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1b112d00-a9d6-4ba6-b723-788918db6f83")
-		(property "Reference" "#PWR03081"
+		(property "Reference" "#PWR023"
 			(at 196.85 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -21337,7 +21337,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03081")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -21354,7 +21354,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1cefc395-28ee-42cb-b66b-6bf07dd3e95f")
-		(property "Reference" "C3020"
+		(property "Reference" "C1"
 			(at 26.924 35.56 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21514,7 +21514,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3020")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -21531,7 +21531,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1f849ad5-1ef8-4a11-9e4c-2f5d9628f332")
-		(property "Reference" "C3043"
+		(property "Reference" "C13"
 			(at 78.994 226.06 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21691,7 +21691,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3043")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -21708,7 +21708,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1f9303b4-2fef-43ae-b6d2-24923a6f1e55")
-		(property "Reference" "C3045"
+		(property "Reference" "C8"
 			(at 69.088 244.602 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21868,7 +21868,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3045")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -21885,7 +21885,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1fb3694a-eea2-4a7a-b364-9aead70c8b81")
-		(property "Reference" "#PWR03005"
+		(property "Reference" "#PWR016"
 			(at 127 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -21979,7 +21979,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03005")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -21997,7 +21997,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "21d5b78f-4f79-41ca-b16f-a98ab141af75")
-		(property "Reference" "C3007"
+		(property "Reference" "C38"
 			(at 281.686 153.67 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22157,7 +22157,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3007")
+					(reference "C38")
 					(unit 1)
 				)
 			)
@@ -22174,7 +22174,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "24e872ea-1276-4291-bc63-cbc592c1e780")
-		(property "Reference" "C3046"
+		(property "Reference" "C14"
 			(at 78.994 243.84 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22334,7 +22334,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3046")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -22351,7 +22351,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2650f407-554d-4ae0-bbc2-8137bcaeafe2")
-		(property "Reference" "C3035"
+		(property "Reference" "C11"
 			(at 78.994 186.69 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22511,7 +22511,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3035")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -22528,7 +22528,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2739c96f-3270-472a-bd64-9d5ebc7a5841")
-		(property "Reference" "#PWR03072"
+		(property "Reference" "#PWR040"
 			(at 372.11 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -22622,7 +22622,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03072")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -22639,7 +22639,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "27b10411-5835-43d0-b2f8-51cffc245397")
-		(property "Reference" "C3041"
+		(property "Reference" "C23"
 			(at 96.774 204.47 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22799,7 +22799,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3041")
+					(reference "C23")
 					(unit 1)
 				)
 			)
@@ -22816,7 +22816,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2941369b-ad6e-4401-904a-a051a9ffacf4")
-		(property "Reference" "C3048"
+		(property "Reference" "C9"
 			(at 69.088 263.652 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22976,7 +22976,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3048")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -22993,7 +22993,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2963f635-30f8-4a28-97df-5ccdfe1bff47")
-		(property "Reference" "C3023"
+		(property "Reference" "C27"
 			(at 179.324 35.56 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23153,7 +23153,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3023")
+					(reference "C27")
 					(unit 1)
 				)
 			)
@@ -23170,7 +23170,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2c0ab560-36ff-4a2a-aa72-b337f430cc85")
-		(property "Reference" "C3003"
+		(property "Reference" "C33"
 			(at 261.874 153.67 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23330,7 +23330,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3003")
+					(reference "C33")
 					(unit 1)
 				)
 			)
@@ -23347,7 +23347,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2c97b514-f0d0-444e-a297-222cb89b4123")
-		(property "Reference" "R3026"
+		(property "Reference" "R13"
 			(at 204.47 256.54 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23495,7 +23495,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "R3026")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -23513,7 +23513,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2cb9f12c-8b9e-43e9-a1de-a00d90cfc6c5")
-		(property "Reference" "U3001"
+		(property "Reference" "U1"
 			(at 225.425 152.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24752,7 +24752,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "U3001")
+					(reference "U1")
 					(unit 4)
 				)
 			)
@@ -24769,7 +24769,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "31c851c4-2f74-45a4-9122-f6d3376b66df")
-		(property "Reference" "C3028"
+		(property "Reference" "C41"
 			(at 363.474 153.67 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24929,7 +24929,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3028")
+					(reference "C41")
 					(unit 1)
 				)
 			)
@@ -24946,7 +24946,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "320c4adc-19b2-4c74-ba79-6d0404d549c6")
-		(property "Reference" "C3005"
+		(property "Reference" "C35"
 			(at 270.764 153.67 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25106,7 +25106,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3005")
+					(reference "C35")
 					(unit 1)
 				)
 			)
@@ -25124,7 +25124,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "33504205-2d89-41bb-9c31-2338cb22fd66")
-		(property "Reference" "#PWR03100"
+		(property "Reference" "#PWR041"
 			(at 355.6 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -25218,7 +25218,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03100")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -25235,7 +25235,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "383b88a2-c5a8-49b9-b085-ef99782066c0")
-		(property "Reference" "#PWR03093"
+		(property "Reference" "#PWR010"
 			(at 87.63 273.05 0)
 			(hide yes)
 			(show_name no)
@@ -25329,7 +25329,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03093")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -25346,7 +25346,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3aa88793-c1d8-4e00-8bcb-af0f3d1f93a4")
-		(property "Reference" "#PWR03076"
+		(property "Reference" "#PWR021"
 			(at 194.31 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -25440,7 +25440,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03076")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -25457,7 +25457,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3b65d1bf-1a82-4653-b91d-dfcf8e420fc4")
-		(property "Reference" "#PWR03077"
+		(property "Reference" "#PWR09"
 			(at 68.58 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -25518,7 +25518,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03077")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -25535,7 +25535,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3b957365-ba6d-4939-b629-9c96e95ac6bd")
-		(property "Reference" "#PWR03068"
+		(property "Reference" "#PWR036"
 			(at 295.91 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -25629,7 +25629,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03068")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -25646,7 +25646,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "456acad3-3c19-4c33-b27a-6472d0f0b962")
-		(property "Reference" "C3031"
+		(property "Reference" "C5"
 			(at 69.088 187.452 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25806,7 +25806,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3031")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -25823,7 +25823,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4971de84-993c-4fa2-ba91-1637a9c4bddb")
-		(property "Reference" "#PWR03088"
+		(property "Reference" "#PWR042"
 			(at 387.35 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -25917,7 +25917,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03088")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -25935,7 +25935,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4ce64c4f-6982-4986-8622-eba4225ce5b0")
-		(property "Reference" "#PWR03095"
+		(property "Reference" "#PWR022"
 			(at 165.1 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -26029,7 +26029,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03095")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -26046,7 +26046,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5302238a-d20f-4f50-98c5-916abeb19601")
-		(property "Reference" "#PWR03085"
+		(property "Reference" "#PWR046"
 			(at 400.05 219.71 0)
 			(hide yes)
 			(show_name no)
@@ -26140,7 +26140,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03085")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -26157,7 +26157,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "53816413-a521-45fe-a709-8232624b4d85")
-		(property "Reference" "#PWR03067"
+		(property "Reference" "#PWR018"
 			(at 154.94 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -26251,7 +26251,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03067")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -26268,7 +26268,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "54639998-b704-4da2-bd90-2cffeaa10f0a")
-		(property "Reference" "C3034"
+		(property "Reference" "C21"
 			(at 96.774 170.18 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26428,7 +26428,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3034")
+					(reference "C21")
 					(unit 1)
 				)
 			)
@@ -26445,7 +26445,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "549f0b00-3351-4242-8869-cb65d4cbdc0d")
-		(property "Reference" "C3042"
+		(property "Reference" "C7"
 			(at 69.088 226.822 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26605,7 +26605,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3042")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -26623,7 +26623,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "58b6f9bb-3c8e-4bde-b4dd-2427ed604009")
-		(property "Reference" "SW3001"
+		(property "Reference" "SW2"
 			(at 269.24 267.97 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26752,7 +26752,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "SW3001")
+					(reference "SW2")
 					(unit 1)
 				)
 			)
@@ -26769,7 +26769,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5de8469f-3520-44f3-b560-ecddb04d528e")
-		(property "Reference" "#PWR03071"
+		(property "Reference" "#PWR038"
 			(at 298.45 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -26863,7 +26863,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03071")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -26880,7 +26880,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5f2ed48e-1a00-45f9-a05b-8fef94a95ae7")
-		(property "Reference" "#PWR03087"
+		(property "Reference" "#PWR05"
 			(at 60.96 204.47 0)
 			(hide yes)
 			(show_name no)
@@ -26974,7 +26974,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03087")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -26992,7 +26992,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "63e25db7-b60e-4ecf-8043-16b752f84699")
-		(property "Reference" "#PWR3012"
+		(property "Reference" "#PWR033"
 			(at 271.78 279.4 0)
 			(hide yes)
 			(show_name no)
@@ -27086,7 +27086,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR3012")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -27103,7 +27103,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "64fc325f-45f0-4ad3-bbbf-aa86a643d8bc")
-		(property "Reference" "#PWR03069"
+		(property "Reference" "#PWR03"
 			(at 41.91 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -27197,7 +27197,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03069")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -27216,7 +27216,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6502058e-b6dd-4947-8d92-2ab755970944")
-		(property "Reference" "Y3002"
+		(property "Reference" "Y1"
 			(at 380.365 201.93 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27353,7 +27353,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "Y3002")
+					(reference "Y1")
 					(unit 1)
 				)
 			)
@@ -27370,7 +27370,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "65365a25-c1cf-4821-b6d2-5918cf010d39")
-		(property "Reference" "C3039"
+		(property "Reference" "C12"
 			(at 78.994 204.47 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27530,7 +27530,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3039")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -27547,7 +27547,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "721cb8c2-1e43-4e5a-9b17-443314f69da5")
-		(property "Reference" "#PWR3024"
+		(property "Reference" "#PWR026"
 			(at 222.25 254 0)
 			(hide yes)
 			(show_name no)
@@ -27642,7 +27642,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR3024")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -27660,7 +27660,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "79017421-844a-465c-9064-0166f85eba01")
-		(property "Reference" "#PWR3025"
+		(property "Reference" "#PWR027"
 			(at 215.9 279.4 0)
 			(hide yes)
 			(show_name no)
@@ -27754,7 +27754,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR3025")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -27772,7 +27772,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7c6f6de1-8c28-4104-998a-6d195e406cd5")
-		(property "Reference" "SW3004"
+		(property "Reference" "SW1"
 			(at 226.06 267.97 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27901,7 +27901,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "SW3004")
+					(reference "SW1")
 					(unit 1)
 				)
 			)
@@ -27918,7 +27918,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7fdbbd8d-478c-4003-92c3-851b653211ca")
-		(property "Reference" "C3019"
+		(property "Reference" "C26"
 			(at 139.954 36.83 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28078,7 +28078,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3019")
+					(reference "C26")
 					(unit 1)
 				)
 			)
@@ -28095,7 +28095,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8029b5ae-66a6-4116-9c86-166bb0744ee3")
-		(property "Reference" "#PWR03082"
+		(property "Reference" "#PWR019"
 			(at 165.1 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -28189,7 +28189,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03082")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -28207,7 +28207,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "82f564d8-e10c-468f-bc16-b9c572ff8e53")
-		(property "Reference" "#PWR03017"
+		(property "Reference" "#PWR035"
 			(at 256.54 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -28301,7 +28301,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03017")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -28318,7 +28318,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8afbdb64-e225-4a4c-ba31-0f9b84e83fd3")
-		(property "Reference" "R3050"
+		(property "Reference" "R10"
 			(at 151.384 85.09 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28466,7 +28466,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "R3050")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -28483,7 +28483,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8ea16cea-e47e-42fd-bbd8-5b21d92f4b4a")
-		(property "Reference" "C3049"
+		(property "Reference" "C15"
 			(at 78.994 262.89 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28643,7 +28643,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3049")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -28660,7 +28660,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8fa5bf1d-1e0a-4393-a833-f3fb01a5fd01")
-		(property "Reference" "R3048"
+		(property "Reference" "R9"
 			(at 142.494 85.09 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28808,7 +28808,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "R3048")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -28825,7 +28825,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "90391902-1e5f-4219-a18b-872cac800a9a")
-		(property "Reference" "C3026"
+		(property "Reference" "C29"
 			(at 188.214 35.56 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28985,7 +28985,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3026")
+					(reference "C29")
 					(unit 1)
 				)
 			)
@@ -29002,7 +29002,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "92faed27-cc9d-431a-8990-1e6b965b5d62")
-		(property "Reference" "J3012"
+		(property "Reference" "J2"
 			(at 386.08 48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29147,7 +29147,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "J3012")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -29164,7 +29164,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "96a76f8d-47c2-4887-ace7-28de8515bcdf")
-		(property "Reference" "C3021"
+		(property "Reference" "C2"
 			(at 35.814 35.56 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29324,7 +29324,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3021")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -29342,7 +29342,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "97550d23-8e9b-4d82-bf01-c908a35e9c70")
-		(property "Reference" "FB3002"
+		(property "Reference" "FB2"
 			(at 57.1119 218.44 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29488,7 +29488,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "FB3002")
+					(reference "FB2")
 					(unit 1)
 				)
 			)
@@ -29505,7 +29505,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "97e5a7e2-bc84-4476-8252-f75b6f421265")
-		(property "Reference" "J3013"
+		(property "Reference" "J3"
 			(at 386.08 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29650,7 +29650,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "J3013")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -29668,7 +29668,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9d2aae46-c7ec-4471-9aa5-e9b66c09ea62")
-		(property "Reference" "#PWR3011"
+		(property "Reference" "#PWR030"
 			(at 259.08 279.4 0)
 			(hide yes)
 			(show_name no)
@@ -29762,7 +29762,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR3011")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -29780,7 +29780,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9ecbeb82-f3b6-4001-8639-d07d97b69c88")
-		(property "Reference" "C3004"
+		(property "Reference" "C34"
 			(at 262.636 35.56 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29940,7 +29940,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3004")
+					(reference "C34")
 					(unit 1)
 				)
 			)
@@ -29958,7 +29958,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a02f7382-f1cd-4889-a442-3a4b63eb8b6e")
-		(property "Reference" "C3018"
+		(property "Reference" "C31"
 			(at 209.55 266.6936 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30118,7 +30118,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3018")
+					(reference "C31")
 					(unit 1)
 				)
 			)
@@ -30136,7 +30136,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a07b7763-6aa8-4b52-9b96-fbea57cefe89")
-		(property "Reference" "C3011"
+		(property "Reference" "C44"
 			(at 373.126 35.56 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30296,7 +30296,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3011")
+					(reference "C44")
 					(unit 1)
 				)
 			)
@@ -30313,7 +30313,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a0d7a861-a873-4508-92e1-41ad05eff62d")
-		(property "Reference" "#PWR03075"
+		(property "Reference" "#PWR04"
 			(at 53.34 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -30407,7 +30407,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03075")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -30424,7 +30424,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a349d0ce-9eec-41ed-9bff-5edb7569f889")
-		(property "Reference" "C3047"
+		(property "Reference" "C20"
 			(at 87.884 243.84 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30584,7 +30584,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3047")
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -30601,7 +30601,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a4431e8f-dd90-4fa8-ab36-748e6b4ba6f4")
-		(property "Reference" "#PWR03079"
+		(property "Reference" "#PWR011"
 			(at 96.52 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -30695,7 +30695,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03079")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -30713,7 +30713,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a47261af-641c-4666-bb9e-5e4a3680177c")
-		(property "Reference" "U3001"
+		(property "Reference" "U1"
 			(at 225.425 35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31952,7 +31952,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "U3001")
+					(reference "U1")
 					(unit 3)
 				)
 			)
@@ -31969,7 +31969,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a576efdc-7169-4e0e-91fd-466b43075e93")
-		(property "Reference" "#PWR03099"
+		(property "Reference" "#PWR037"
 			(at 297.18 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -32063,7 +32063,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03099")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -32080,7 +32080,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ab3ecf5d-a6d0-4865-acfa-a73a7b9cf777")
-		(property "Reference" "#PWR03091"
+		(property "Reference" "#PWR020"
 			(at 165.1 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -32174,7 +32174,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03091")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -32191,7 +32191,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b032154a-79bb-4ebf-ba97-13a6f53c980c")
-		(property "Reference" "#PWR03090"
+		(property "Reference" "#PWR07"
 			(at 60.96 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -32285,7 +32285,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03090")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -32302,7 +32302,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b16f7d65-d005-4982-8c48-216478ca8dd1")
-		(property "Reference" "#PWR03092"
+		(property "Reference" "#PWR08"
 			(at 60.96 262.89 0)
 			(hide yes)
 			(show_name no)
@@ -32396,7 +32396,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03092")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -32413,7 +32413,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b226a5ec-c957-4d5a-af8f-27c085d4eb6f")
-		(property "Reference" "R3027"
+		(property "Reference" "R14"
 			(at 213.36 257.556 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32559,7 +32559,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "R3027")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -32576,7 +32576,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b2524804-df98-4756-9af5-e7477a74709a")
-		(property "Reference" "#PWR03080"
+		(property "Reference" "#PWR024"
 			(at 196.85 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -32670,7 +32670,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03080")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -32687,7 +32687,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b582442c-5843-48c3-af30-d8dc2ed7754c")
-		(property "Reference" "R3004"
+		(property "Reference" "R11"
 			(at 183.134 125.73 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32835,7 +32835,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "R3004")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -32852,7 +32852,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b58af09a-a8e6-48c1-841a-37d968105d2a")
-		(property "Reference" "C3016"
+		(property "Reference" "C24"
 			(at 122.174 36.83 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33012,7 +33012,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3016")
+					(reference "C24")
 					(unit 1)
 				)
 			)
@@ -33029,7 +33029,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b5aa8777-f0b6-4b49-b28b-97aeb150959a")
-		(property "Reference" "C3036"
+		(property "Reference" "C17"
 			(at 87.884 186.69 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33189,7 +33189,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3036")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -33207,7 +33207,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b5e4af0b-e17f-4a35-929b-5adacd6aca1b")
-		(property "Reference" "R3002"
+		(property "Reference" "R16"
 			(at 256.54 256.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33353,7 +33353,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "R3002")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -33370,7 +33370,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b9a08af5-6d32-420e-b56b-c9a6186ae2b3")
-		(property "Reference" "#PWR3010"
+		(property "Reference" "#PWR029"
 			(at 265.43 254 0)
 			(hide yes)
 			(show_name no)
@@ -33465,7 +33465,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR3010")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -33483,7 +33483,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "baa18d22-9186-4da9-904e-d6cd8be14dbb")
-		(property "Reference" "C3008"
+		(property "Reference" "C40"
 			(at 290.576 153.67 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33643,7 +33643,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3008")
+					(reference "C40")
 					(unit 1)
 				)
 			)
@@ -33660,7 +33660,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bad17fb1-1ff9-4d4c-8f60-054c53b88ed4")
-		(property "Reference" "#PWR03086"
+		(property "Reference" "#PWR012"
 			(at 96.52 254 0)
 			(hide yes)
 			(show_name no)
@@ -33754,7 +33754,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03086")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -33772,7 +33772,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bb7a5ed1-726c-4bea-b078-c51e72cbd874")
-		(property "Reference" "C3006"
+		(property "Reference" "C36"
 			(at 271.526 35.56 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33932,7 +33932,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3006")
+					(reference "C36")
 					(unit 1)
 				)
 			)
@@ -33949,7 +33949,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bbd5e7bf-6d48-4c0a-a9bf-f192501473a7")
-		(property "Reference" "C3017"
+		(property "Reference" "C25"
 			(at 131.064 36.83 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34109,7 +34109,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3017")
+					(reference "C25")
 					(unit 1)
 				)
 			)
@@ -34126,7 +34126,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "be466772-2ec3-45a0-b646-df72f1a10d46")
-		(property "Reference" "#PWR03097"
+		(property "Reference" "#PWR034"
 			(at 285.75 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -34220,7 +34220,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03097")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -34237,7 +34237,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bfc57ced-cc48-44a3-b6a2-489bb36afe5e")
-		(property "Reference" "C3027"
+		(property "Reference" "C45"
 			(at 397.764 210.82 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34397,7 +34397,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3027")
+					(reference "C45")
 					(unit 1)
 				)
 			)
@@ -34415,7 +34415,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c2482aed-1cc3-48fd-acdb-8ea3af3290f1")
-		(property "Reference" "C3009"
+		(property "Reference" "C42"
 			(at 364.236 35.56 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34575,7 +34575,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3009")
+					(reference "C42")
 					(unit 1)
 				)
 			)
@@ -34593,7 +34593,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c3af8e4e-29af-458d-9899-2604656306ae")
-		(property "Reference" "C3002"
+		(property "Reference" "C30"
 			(at 188.976 153.67 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34753,7 +34753,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3002")
+					(reference "C30")
 					(unit 1)
 				)
 			)
@@ -34771,7 +34771,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c4a8b8d1-100f-42ad-a349-e26f496a5827")
-		(property "Reference" "#PWR03018"
+		(property "Reference" "#PWR032"
 			(at 254 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -34865,7 +34865,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03018")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -34882,7 +34882,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c68cb121-c3ef-41ee-996a-3c24e7b20a9d")
-		(property "Reference" "C3033"
+		(property "Reference" "C16"
 			(at 87.884 170.18 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35042,7 +35042,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3033")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -35060,7 +35060,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ca7e304b-dc6f-4673-9cd7-c963c4a4947a")
-		(property "Reference" "U3001"
+		(property "Reference" "U1"
 			(at 137.795 191.77 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36299,7 +36299,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "U3001")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -36317,7 +36317,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ca824472-c8e2-46e8-b924-08673b7d9701")
-		(property "Reference" "#PWR3026"
+		(property "Reference" "#PWR028"
 			(at 228.6 279.4 0)
 			(hide yes)
 			(show_name no)
@@ -36411,7 +36411,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR3026")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -36428,7 +36428,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cb3be805-8361-4768-8482-efdf3eb02b26")
-		(property "Reference" "#PWR03074"
+		(property "Reference" "#PWR014"
 			(at 105.41 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -36522,7 +36522,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03074")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -36539,7 +36539,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cb4e6036-192f-4d58-a608-fbee07d62699")
-		(property "Reference" "C3030"
+		(property "Reference" "C4"
 			(at 69.088 170.942 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36699,7 +36699,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3030")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -36716,7 +36716,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cc83d0cf-a764-455c-b0a0-93b753daa5e4")
-		(property "Reference" "C3037"
+		(property "Reference" "C22"
 			(at 96.774 186.69 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36876,7 +36876,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3037")
+					(reference "C22")
 					(unit 1)
 				)
 			)
@@ -36894,7 +36894,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cdec4d82-1853-4566-846c-ef66530b9975")
-		(property "Reference" "R3028"
+		(property "Reference" "R12"
 			(at 199.644 265.176 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37053,7 +37053,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "R3028")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -37071,7 +37071,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d2d5330c-3b19-4006-b1cd-759ca25266d1")
-		(property "Reference" "#PWR03002"
+		(property "Reference" "#PWR047"
 			(at 377.19 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -37165,7 +37165,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03002")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -37182,7 +37182,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d2edcbc5-c7ed-4884-a4c5-cd811c025807")
-		(property "Reference" "R3001"
+		(property "Reference" "R15"
 			(at 247.65 256.54 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37330,7 +37330,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "R3001")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -37347,7 +37347,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d4796ddb-e71c-4902-8a8f-e29356282e1c")
-		(property "Reference" "#PWR03073"
+		(property "Reference" "#PWR013"
 			(at 105.41 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -37441,7 +37441,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03073")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -37458,7 +37458,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d568eccf-c242-4a7c-9560-3a91cd4e3e97")
-		(property "Reference" "C3040"
+		(property "Reference" "C18"
 			(at 87.884 204.47 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37618,7 +37618,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3040")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -37636,7 +37636,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d7f950d5-b25b-4c5f-a89a-d18c26877e6c")
-		(property "Reference" "#PWR03003"
+		(property "Reference" "#PWR045"
 			(at 370.84 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -37730,7 +37730,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03003")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -37748,7 +37748,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d949124b-3cc7-4553-886d-7e4c4854709b")
-		(property "Reference" "#PWR03094"
+		(property "Reference" "#PWR025"
 			(at 180.34 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -37842,7 +37842,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03094")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -37859,7 +37859,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dab5a39c-8599-4fbe-b975-7ccaaf9887d1")
-		(property "Reference" "C3032"
+		(property "Reference" "C10"
 			(at 78.994 170.18 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38019,7 +38019,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3032")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -38036,7 +38036,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dce82d91-ca6f-429d-b7ca-d1abd7ad6c87")
-		(property "Reference" "#PWR03096"
+		(property "Reference" "#PWR031"
 			(at 270.51 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -38130,7 +38130,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03096")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -38147,7 +38147,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e148654d-2483-48f0-9372-1d6863eb372d")
-		(property "Reference" "C3024"
+		(property "Reference" "C37"
 			(at 280.924 35.56 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38307,7 +38307,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3024")
+					(reference "C37")
 					(unit 1)
 				)
 			)
@@ -38324,7 +38324,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e424683b-6df2-4759-8088-908b807a6aed")
-		(property "Reference" "C3025"
+		(property "Reference" "C39"
 			(at 289.814 35.56 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38484,7 +38484,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3025")
+					(reference "C39")
 					(unit 1)
 				)
 			)
@@ -38501,7 +38501,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e5710455-39f9-4393-86ce-2af0d929417d")
-		(property "Reference" "#PWR03084"
+		(property "Reference" "#PWR050"
 			(at 406.4 219.71 0)
 			(hide yes)
 			(show_name no)
@@ -38595,7 +38595,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03084")
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -38613,7 +38613,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e99726cf-ddfa-425c-97b6-d17a50473e0b")
-		(property "Reference" "#PWR03019"
+		(property "Reference" "#PWR043"
 			(at 358.14 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -38707,7 +38707,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03019")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -38724,7 +38724,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ea232f76-2286-4553-af67-1a9348f49269")
-		(property "Reference" "C3029"
+		(property "Reference" "C43"
 			(at 372.364 153.67 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38884,7 +38884,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3029")
+					(reference "C43")
 					(unit 1)
 				)
 			)
@@ -38902,7 +38902,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f4bdac59-c437-43fb-841f-58b7ef78a91b")
-		(property "Reference" "C3001"
+		(property "Reference" "C28"
 			(at 180.086 153.67 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39062,7 +39062,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3001")
+					(reference "C28")
 					(unit 1)
 				)
 			)
@@ -39080,7 +39080,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f649da0c-3cf2-4bb9-a58a-367988f7a059")
-		(property "Reference" "U3001"
+		(property "Reference" "U1"
 			(at 85.725 35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40319,7 +40319,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "U3001")
+					(reference "U1")
 					(unit 2)
 				)
 			)
@@ -40336,7 +40336,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f9dd92cf-00ac-4de1-9581-f926e005d10b")
-		(property "Reference" "C3044"
+		(property "Reference" "C19"
 			(at 87.884 226.06 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40496,7 +40496,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "C3044")
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -40513,7 +40513,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fb64ef26-ccc4-402b-8796-e7adbae1f170")
-		(property "Reference" "#PWR03004"
+		(property "Reference" "#PWR048"
 			(at 407.67 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -40607,7 +40607,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "#PWR03004")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -40625,7 +40625,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fe42f670-2566-496e-af2e-022c72a77ad9")
-		(property "Reference" "FB3001"
+		(property "Reference" "FB1"
 			(at 57.1119 196.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40771,7 +40771,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/bc6e661a-ca2f-49c5-87e5-104abcecc786"
-					(reference "FB3001")
+					(reference "FB1")
 					(unit 1)
 				)
 			)
