@@ -1714,6 +1714,60 @@
 		)
 		(uuid "86f6b9e4-d665-4619-97f0-10e42fd388f4")
 	)
+	(rule_area
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(polyline
+			(pts
+				(xy 121.92 90.424) (xy 121.92 101.6) (xy 180.086 101.854) (xy 180.086 89.662) (xy 122.809 89.662)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid "7ba390f8-50e9-43a0-be94-df5795b47e9d")
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 121.92 101.6 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "45c22b46-7cb8-41f2-9aea-a5435b55822d")
+		(property "Netclass" "50Ohm-se"
+			(at 118.364 101.6 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Component Class" ""
+			(at -77.47 224.79 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify right)
+			)
+		)
+	)
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
