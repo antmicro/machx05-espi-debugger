@@ -10308,8 +10308,8 @@
 		)
 	)
 	(rectangle
-		(start 180.34 241.3)
-		(end 287.02 284.48)
+		(start 167.64 241.3)
+		(end 274.32 284.48)
 		(stroke
 			(width 0)
 			(type default)
@@ -10321,7 +10321,7 @@
 	)
 	(text "BUTTONS"
 		(exclude_from_sim no)
-		(at 246.126 249.682 0)
+		(at 233.426 249.682 0)
 		(effects
 			(font
 				(size 4 4)
@@ -10381,7 +10381,7 @@
 		(uuid "155487c4-c19f-41df-99b4-06ccbdfa8c9a")
 	)
 	(junction
-		(at 262.89 262.89)
+		(at 250.19 262.89)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "15fd1349-c7a7-432d-aab5-cad78e997d0f")
@@ -10405,7 +10405,7 @@
 		(uuid "23f2650c-a1bb-48b5-8590-1f7c19f018b4")
 	)
 	(junction
-		(at 219.71 275.59)
+		(at 207.01 275.59)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "27ccdec7-aec9-4a39-8ee4-a1e8cc595da6")
@@ -10459,7 +10459,7 @@
 		(uuid "34dd8e0c-ca60-4259-8eae-234cd2de19eb")
 	)
 	(junction
-		(at 207.01 262.89)
+		(at 194.31 262.89)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "36e7bc8e-afad-4f3b-89cc-b3e8e5ab70d2")
@@ -10735,7 +10735,7 @@
 		(uuid "ae567640-5bf4-4693-8911-7512c120155e")
 	)
 	(junction
-		(at 219.71 262.89)
+		(at 207.01 262.89)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b03f69a3-a243-47a2-8414-40956ac70ed8")
@@ -10921,7 +10921,7 @@
 		(uuid "eb1fff4e-8a0f-4954-8153-8411ea4812b3")
 	)
 	(junction
-		(at 262.89 275.59)
+		(at 250.19 275.59)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "eb745a64-7e15-42b1-b777-a55b8349518d")
@@ -10939,7 +10939,7 @@
 		(uuid "ed7bb9dd-1a94-4985-b495-5dc0da932092")
 	)
 	(junction
-		(at 250.19 262.89)
+		(at 237.49 262.89)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f03f5853-a6b5-4b5b-85bf-5dded7fa6eac")
@@ -12473,7 +12473,7 @@
 	)
 	(wire
 		(pts
-			(xy 265.43 264.16) (xy 265.43 262.89)
+			(xy 252.73 264.16) (xy 252.73 262.89)
 		)
 		(stroke
 			(width 0)
@@ -12533,7 +12533,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 262.89) (xy 254 262.89)
+			(xy 237.49 262.89) (xy 241.3 262.89)
 		)
 		(stroke
 			(width 0)
@@ -12593,7 +12593,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 260.35) (xy 207.01 262.89)
+			(xy 194.31 260.35) (xy 194.31 262.89)
 		)
 		(stroke
 			(width 0)
@@ -12633,7 +12633,7 @@
 	)
 	(wire
 		(pts
-			(xy 265.43 274.32) (xy 265.43 275.59)
+			(xy 252.73 274.32) (xy 252.73 275.59)
 		)
 		(stroke
 			(width 0)
@@ -12753,7 +12753,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 275.59) (xy 219.71 275.59)
+			(xy 209.55 275.59) (xy 207.01 275.59)
 		)
 		(stroke
 			(width 0)
@@ -12833,7 +12833,7 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 275.59) (xy 219.71 274.32)
+			(xy 207.01 275.59) (xy 207.01 274.32)
 		)
 		(stroke
 			(width 0)
@@ -12873,7 +12873,7 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 275.59) (xy 262.89 274.32)
+			(xy 250.19 275.59) (xy 250.19 274.32)
 		)
 		(stroke
 			(width 0)
@@ -12933,7 +12933,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 270.51) (xy 207.01 276.86)
+			(xy 194.31 270.51) (xy 194.31 276.86)
 		)
 		(stroke
 			(width 0)
@@ -12943,7 +12943,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 262.89) (xy 219.71 262.89)
+			(xy 209.55 262.89) (xy 207.01 262.89)
 		)
 		(stroke
 			(width 0)
@@ -12993,7 +12993,7 @@
 	)
 	(wire
 		(pts
-			(xy 265.43 262.89) (xy 262.89 262.89)
+			(xy 252.73 262.89) (xy 250.19 262.89)
 		)
 		(stroke
 			(width 0)
@@ -13193,7 +13193,7 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 262.89) (xy 259.08 262.89)
+			(xy 250.19 262.89) (xy 246.38 262.89)
 		)
 		(stroke
 			(width 0)
@@ -13293,7 +13293,7 @@
 	)
 	(wire
 		(pts
-			(xy 265.43 275.59) (xy 262.89 275.59)
+			(xy 252.73 275.59) (xy 250.19 275.59)
 		)
 		(stroke
 			(width 0)
@@ -13413,7 +13413,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 264.16) (xy 222.25 262.89)
+			(xy 209.55 264.16) (xy 209.55 262.89)
 		)
 		(stroke
 			(width 0)
@@ -13493,7 +13493,7 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 276.86) (xy 262.89 275.59)
+			(xy 250.19 276.86) (xy 250.19 275.59)
 		)
 		(stroke
 			(width 0)
@@ -13573,7 +13573,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 254) (xy 207.01 255.27)
+			(xy 194.31 254) (xy 194.31 255.27)
 		)
 		(stroke
 			(width 0)
@@ -13713,7 +13713,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 262.89) (xy 250.19 265.43)
+			(xy 237.49 262.89) (xy 237.49 265.43)
 		)
 		(stroke
 			(width 0)
@@ -13873,7 +13873,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 260.35) (xy 250.19 262.89)
+			(xy 237.49 260.35) (xy 237.49 262.89)
 		)
 		(stroke
 			(width 0)
@@ -14353,7 +14353,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 262.89) (xy 196.85 262.89)
+			(xy 173.99 262.89) (xy 184.15 262.89)
 		)
 		(stroke
 			(width 0)
@@ -14463,7 +14463,7 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 264.16) (xy 219.71 262.89)
+			(xy 207.01 264.16) (xy 207.01 262.89)
 		)
 		(stroke
 			(width 0)
@@ -14873,7 +14873,7 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 276.86) (xy 219.71 275.59)
+			(xy 207.01 276.86) (xy 207.01 275.59)
 		)
 		(stroke
 			(width 0)
@@ -14883,7 +14883,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 274.32) (xy 222.25 275.59)
+			(xy 209.55 274.32) (xy 209.55 275.59)
 		)
 		(stroke
 			(width 0)
@@ -15153,7 +15153,7 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 264.16) (xy 262.89 262.89)
+			(xy 250.19 264.16) (xy 250.19 262.89)
 		)
 		(stroke
 			(width 0)
@@ -15293,7 +15293,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 270.51) (xy 250.19 276.86)
+			(xy 237.49 270.51) (xy 237.49 276.86)
 		)
 		(stroke
 			(width 0)
@@ -15323,7 +15323,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 262.89) (xy 250.19 262.89)
+			(xy 224.79 262.89) (xy 237.49 262.89)
 		)
 		(stroke
 			(width 0)
@@ -15453,7 +15453,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 262.89) (xy 210.82 262.89)
+			(xy 194.31 262.89) (xy 198.12 262.89)
 		)
 		(stroke
 			(width 0)
@@ -15673,7 +15673,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 262.89) (xy 207.01 265.43)
+			(xy 194.31 262.89) (xy 194.31 265.43)
 		)
 		(stroke
 			(width 0)
@@ -15823,7 +15823,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 262.89) (xy 207.01 262.89)
+			(xy 189.23 262.89) (xy 194.31 262.89)
 		)
 		(stroke
 			(width 0)
@@ -16473,7 +16473,7 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 262.89) (xy 215.9 262.89)
+			(xy 207.01 262.89) (xy 203.2 262.89)
 		)
 		(stroke
 			(width 0)
@@ -16523,7 +16523,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 254) (xy 250.19 255.27)
+			(xy 237.49 254) (xy 237.49 255.27)
 		)
 		(stroke
 			(width 0)
@@ -16802,7 +16802,7 @@
 		(uuid "1a6596df-0e11-4470-8e53-1e164b9e2010")
 	)
 	(label "~{PROGRAM}"
-		(at 186.69 262.89 0)
+		(at 173.99 262.89 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -17352,7 +17352,7 @@
 		(uuid "c33211b2-4ac9-4f42-a4e7-ee6682932066")
 	)
 	(label "~{BTN0}"
-		(at 237.49 262.89 0)
+		(at 224.79 262.89 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19532,7 +19532,7 @@
 	)
 	(symbol
 		(lib_id "antmicroCapacitors0402:C_1u_6.3V_X6S_0402")
-		(at 250.19 270.51 90)
+		(at 237.49 270.51 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -19543,7 +19543,7 @@
 		(fields_autoplaced yes)
 		(uuid "0bd02b56-85df-416a-807f-f23370edefbf")
 		(property "Reference" "C32"
-			(at 252.73 266.6936 90)
+			(at 240.03 266.6936 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19555,7 +19555,7 @@
 			)
 		)
 		(property "Value" "C_1u_6.3V_X6S_0402"
-			(at 260.35 250.19 0)
+			(at 247.65 250.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19568,7 +19568,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:C_0402_1005Metric"
-			(at 262.89 250.19 0)
+			(at 250.19 250.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19581,7 +19581,7 @@
 			)
 		)
 		(property "Datasheet" "https://pim.murata.com/en-global/pim/details/?partNum=GRT155C80J105KE01%23"
-			(at 265.43 250.19 0)
+			(at 252.73 250.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19594,7 +19594,7 @@
 			)
 		)
 		(property "Description" "SMD Multilayer Ceramic Capacitor, 1 µF, 6.3 V, 0402 [1005 Metric], ± 10%, X6S"
-			(at 283.21 250.19 0)
+			(at 270.51 250.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19606,7 +19606,7 @@
 			)
 		)
 		(property "MPN" "GRT155C80J105KE01D"
-			(at 267.97 250.19 0)
+			(at 255.27 250.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19619,7 +19619,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
-			(at 270.51 250.19 0)
+			(at 257.81 250.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19632,7 +19632,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 273.05 250.19 0)
+			(at 260.35 250.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19645,7 +19645,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 275.59 250.19 0)
+			(at 262.89 250.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19658,7 +19658,7 @@
 			)
 		)
 		(property "Val" "1u"
-			(at 252.73 269.2336 90)
+			(at 240.03 269.2336 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19670,7 +19670,7 @@
 			)
 		)
 		(property "Voltage" "6.3V"
-			(at 278.13 250.19 0)
+			(at 265.43 250.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19682,7 +19682,7 @@
 			)
 		)
 		(property "Dielectric" "X6S"
-			(at 280.67 250.19 0)
+			(at 267.97 250.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24036,7 +24036,7 @@
 	)
 	(symbol
 		(lib_id "antmicroResistors0402:R_10k_0402")
-		(at 207.01 255.27 270)
+		(at 194.31 255.27 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -24046,7 +24046,7 @@
 		(dnp no)
 		(uuid "2c97b514-f0d0-444e-a297-222cb89b4123")
 		(property "Reference" "R13"
-			(at 204.47 256.54 90)
+			(at 191.77 256.54 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24058,83 +24058,6 @@
 			)
 		)
 		(property "Value" "R_10k_0402"
-			(at 194.31 275.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "antmicro-footprints:R_0402_1005Metric"
-			(at 191.77 275.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" "https://www.bourns.com/docs/product-datasheets/cr.pdf"
-			(at 189.23 275.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" "SMD Chip Resistor, 10 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose"
-			(at 176.53 275.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MPN" "CR0402-FX-1002GLF"
-			(at 186.69 275.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 184.15 275.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "License" "Apache-2.0"
 			(at 181.61 275.59 0)
 			(hide yes)
 			(show_name no)
@@ -24147,7 +24070,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Author" "Antmicro"
+		(property "Footprint" "antmicro-footprints:R_0402_1005Metric"
 			(at 179.07 275.59 0)
 			(hide yes)
 			(show_name no)
@@ -24160,8 +24083,85 @@
 				(justify left bottom)
 			)
 		)
+		(property "Datasheet" "https://www.bourns.com/docs/product-datasheets/cr.pdf"
+			(at 176.53 275.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "SMD Chip Resistor, 10 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose"
+			(at 163.83 275.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" "CR0402-FX-1002GLF"
+			(at 173.99 275.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Manufacturer" "Bourns"
+			(at 171.45 275.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 168.91 275.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 166.37 275.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
 		(property "Val" "10k"
-			(at 204.47 259.08 90)
+			(at 191.77 259.08 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24173,7 +24173,7 @@
 			)
 		)
 		(property "Tolerance" "1%"
-			(at 196.85 275.59 0)
+			(at 184.15 275.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27846,7 +27846,7 @@
 	)
 	(symbol
 		(lib_id "antmicroPushbuttonSwitches:SW_KSC441J70SHLFS_SMD")
-		(at 265.43 264.16 270)
+		(at 252.73 264.16 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -27857,7 +27857,7 @@
 		(fields_autoplaced yes)
 		(uuid "58b6f9bb-3c8e-4bde-b4dd-2427ed604009")
 		(property "Reference" "SW2"
-			(at 269.24 267.97 90)
+			(at 256.54 267.97 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27869,7 +27869,7 @@
 			)
 		)
 		(property "Value" "SW_KSC441J70SHLFS_SMD"
-			(at 257.81 289.56 0)
+			(at 245.11 289.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27882,7 +27882,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:SW_KSC441J70SHLFS_SMD"
-			(at 255.27 289.56 0)
+			(at 242.57 289.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27895,7 +27895,7 @@
 			)
 		)
 		(property "Datasheet" "https://eu.mouser.com/datasheet/2/240/ksc4-3050359.pdf"
-			(at 252.73 289.56 0)
+			(at 240.03 289.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27908,7 +27908,7 @@
 			)
 		)
 		(property "Description" "Tactile Switches SPST Round Button J-Bend 0.05A 32VDC 1W"
-			(at 242.57 289.56 0)
+			(at 229.87 289.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27920,7 +27920,7 @@
 			)
 		)
 		(property "MPN" "KSC441J70SHLFS"
-			(at 269.24 270.51 90)
+			(at 256.54 270.51 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27932,7 +27932,7 @@
 			)
 		)
 		(property "Manufacturer" "C&K"
-			(at 250.19 289.56 0)
+			(at 237.49 289.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27945,7 +27945,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 247.65 289.56 0)
+			(at 234.95 289.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27958,7 +27958,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 245.11 289.56 0)
+			(at 232.41 289.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28215,7 +28215,7 @@
 	)
 	(symbol
 		(lib_id "antmicropower:GND")
-		(at 262.89 276.86 0)
+		(at 250.19 276.86 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -28225,7 +28225,7 @@
 		(dnp no)
 		(uuid "63e25db7-b60e-4ecf-8043-16b752f84699")
 		(property "Reference" "#PWR033"
-			(at 271.78 279.4 0)
+			(at 259.08 279.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28238,7 +28238,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 262.89 280.67 0)
+			(at 250.19 280.67 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28249,7 +28249,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 271.78 284.48 0)
+			(at 259.08 284.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28262,7 +28262,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 271.78 289.56 0)
+			(at 259.08 289.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28275,7 +28275,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 271.78 292.1 0)
+			(at 259.08 292.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28287,7 +28287,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 271.78 284.48 0)
+			(at 259.08 284.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28300,7 +28300,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 271.78 287.02 0)
+			(at 259.08 287.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28770,7 +28770,7 @@
 	)
 	(symbol
 		(lib_id "antmicropower:+3V3")
-		(at 207.01 254 0)
+		(at 194.31 254 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -28780,7 +28780,7 @@
 		(dnp no)
 		(uuid "721cb8c2-1e43-4e5a-9b17-443314f69da5")
 		(property "Reference" "#PWR026"
-			(at 222.25 254 0)
+			(at 209.55 254 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28793,7 +28793,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 203.962 250.952 0)
+			(at 191.262 250.952 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28805,7 +28805,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 222.25 261.62 0)
+			(at 209.55 261.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28818,7 +28818,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 222.25 264.16 0)
+			(at 209.55 264.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28831,7 +28831,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 222.25 266.7 0)
+			(at 209.55 266.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28843,7 +28843,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 222.25 256.54 0)
+			(at 209.55 256.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28856,7 +28856,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 222.25 259.08 0)
+			(at 209.55 259.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28882,7 +28882,7 @@
 	)
 	(symbol
 		(lib_id "antmicropower:GND")
-		(at 207.01 276.86 0)
+		(at 194.31 276.86 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -28892,7 +28892,7 @@
 		(dnp no)
 		(uuid "79017421-844a-465c-9064-0166f85eba01")
 		(property "Reference" "#PWR027"
-			(at 215.9 279.4 0)
+			(at 203.2 279.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28905,7 +28905,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 207.01 280.67 0)
+			(at 194.31 280.67 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28916,7 +28916,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 215.9 284.48 0)
+			(at 203.2 284.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28929,7 +28929,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 215.9 289.56 0)
+			(at 203.2 289.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28942,7 +28942,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 215.9 292.1 0)
+			(at 203.2 292.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28954,7 +28954,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 215.9 284.48 0)
+			(at 203.2 284.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28967,7 +28967,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 215.9 287.02 0)
+			(at 203.2 287.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28993,7 +28993,7 @@
 	)
 	(symbol
 		(lib_id "antmicroPushbuttonSwitches:SW_KSC441J70SHLFS_SMD")
-		(at 222.25 264.16 270)
+		(at 209.55 264.16 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -29004,7 +29004,7 @@
 		(fields_autoplaced yes)
 		(uuid "7c6f6de1-8c28-4104-998a-6d195e406cd5")
 		(property "Reference" "SW1"
-			(at 226.06 267.97 90)
+			(at 213.36 267.97 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -29016,7 +29016,7 @@
 			)
 		)
 		(property "Value" "SW_KSC441J70SHLFS_SMD"
-			(at 214.63 289.56 0)
+			(at 201.93 289.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29029,7 +29029,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:SW_KSC441J70SHLFS_SMD"
-			(at 212.09 289.56 0)
+			(at 199.39 289.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29042,7 +29042,7 @@
 			)
 		)
 		(property "Datasheet" "https://eu.mouser.com/datasheet/2/240/ksc4-3050359.pdf"
-			(at 209.55 289.56 0)
+			(at 196.85 289.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29055,7 +29055,7 @@
 			)
 		)
 		(property "Description" "Tactile Switches SPST Round Button J-Bend 0.05A 32VDC 1W"
-			(at 199.39 289.56 0)
+			(at 186.69 289.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29067,7 +29067,7 @@
 			)
 		)
 		(property "MPN" "KSC441J70SHLFS"
-			(at 226.06 270.51 90)
+			(at 213.36 270.51 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -29079,7 +29079,7 @@
 			)
 		)
 		(property "Manufacturer" "C&K"
-			(at 207.01 289.56 0)
+			(at 194.31 289.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29092,7 +29092,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 204.47 289.56 0)
+			(at 191.77 289.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29105,7 +29105,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 201.93 289.56 0)
+			(at 189.23 289.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31422,7 +31422,7 @@
 	)
 	(symbol
 		(lib_id "antmicropower:GND")
-		(at 250.19 276.86 0)
+		(at 237.49 276.86 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -31432,7 +31432,7 @@
 		(dnp no)
 		(uuid "9d2aae46-c7ec-4471-9aa5-e9b66c09ea62")
 		(property "Reference" "#PWR030"
-			(at 259.08 279.4 0)
+			(at 246.38 279.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31445,7 +31445,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 250.19 280.67 0)
+			(at 237.49 280.67 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -31456,7 +31456,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 259.08 284.48 0)
+			(at 246.38 284.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31469,7 +31469,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 259.08 289.56 0)
+			(at 246.38 289.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31482,7 +31482,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 259.08 292.1 0)
+			(at 246.38 292.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31494,7 +31494,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 259.08 284.48 0)
+			(at 246.38 284.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31507,7 +31507,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 259.08 287.02 0)
+			(at 246.38 287.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31711,7 +31711,7 @@
 	)
 	(symbol
 		(lib_id "antmicroCapacitors0402:C_1u_6.3V_X6S_0402")
-		(at 207.01 270.51 90)
+		(at 194.31 270.51 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -31722,7 +31722,7 @@
 		(fields_autoplaced yes)
 		(uuid "a02f7382-f1cd-4889-a442-3a4b63eb8b6e")
 		(property "Reference" "C31"
-			(at 209.55 266.6936 90)
+			(at 196.85 266.6936 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -31734,7 +31734,7 @@
 			)
 		)
 		(property "Value" "C_1u_6.3V_X6S_0402"
-			(at 217.17 250.19 0)
+			(at 204.47 250.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31747,7 +31747,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:C_0402_1005Metric"
-			(at 219.71 250.19 0)
+			(at 207.01 250.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31760,7 +31760,7 @@
 			)
 		)
 		(property "Datasheet" "https://pim.murata.com/en-global/pim/details/?partNum=GRT155C80J105KE01%23"
-			(at 222.25 250.19 0)
+			(at 209.55 250.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31773,7 +31773,7 @@
 			)
 		)
 		(property "Description" "SMD Multilayer Ceramic Capacitor, 1 µF, 6.3 V, 0402 [1005 Metric], ± 10%, X6S"
-			(at 240.03 250.19 0)
+			(at 227.33 250.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31785,7 +31785,7 @@
 			)
 		)
 		(property "MPN" "GRT155C80J105KE01D"
-			(at 224.79 250.19 0)
+			(at 212.09 250.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31798,7 +31798,7 @@
 			)
 		)
 		(property "Manufacturer" "Murata"
-			(at 227.33 250.19 0)
+			(at 214.63 250.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31811,7 +31811,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 229.87 250.19 0)
+			(at 217.17 250.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31824,7 +31824,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 232.41 250.19 0)
+			(at 219.71 250.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31837,7 +31837,7 @@
 			)
 		)
 		(property "Val" "1u"
-			(at 209.55 269.2336 90)
+			(at 196.85 269.2336 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -31849,7 +31849,7 @@
 			)
 		)
 		(property "Voltage" "6.3V"
-			(at 234.95 250.19 0)
+			(at 222.25 250.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31861,7 +31861,7 @@
 			)
 		)
 		(property "Dielectric" "X6S"
-			(at 237.49 250.19 0)
+			(at 224.79 250.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34167,7 +34167,7 @@
 	)
 	(symbol
 		(lib_id "antmicroResistors0402:R_100R_0402")
-		(at 210.82 262.89 0)
+		(at 198.12 262.89 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -34177,7 +34177,7 @@
 		(dnp no)
 		(uuid "b226a5ec-c957-4d5a-af8f-27c085d4eb6f")
 		(property "Reference" "R14"
-			(at 213.36 257.556 0)
+			(at 200.66 257.556 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -34188,7 +34188,7 @@
 			)
 		)
 		(property "Value" "R_100R_0402"
-			(at 231.14 275.59 0)
+			(at 218.44 275.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34201,7 +34201,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:R_0402_1005Metric"
-			(at 231.14 278.13 0)
+			(at 218.44 278.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34214,7 +34214,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.bourns.com/docs/product-datasheets/cr.pdf"
-			(at 231.14 280.67 0)
+			(at 218.44 280.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34227,7 +34227,7 @@
 			)
 		)
 		(property "Description" "SMD Chip Resistor, 100 ohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose"
-			(at 231.14 293.37 0)
+			(at 218.44 293.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34239,7 +34239,7 @@
 			)
 		)
 		(property "MPN" "CR0402-FX-1000GLF"
-			(at 231.14 283.21 0)
+			(at 218.44 283.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34252,7 +34252,7 @@
 			)
 		)
 		(property "Manufacturer" "Bourns"
-			(at 231.14 285.75 0)
+			(at 218.44 285.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34265,7 +34265,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 231.14 288.29 0)
+			(at 218.44 288.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34278,7 +34278,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 231.14 290.83 0)
+			(at 218.44 290.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34291,7 +34291,7 @@
 			)
 		)
 		(property "Val" "100R"
-			(at 213.36 260.096 0)
+			(at 200.66 260.096 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -34302,7 +34302,7 @@
 			)
 		)
 		(property "Tolerance" "1%"
-			(at 231.14 273.05 0)
+			(at 218.44 273.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34960,7 +34960,7 @@
 	)
 	(symbol
 		(lib_id "antmicroResistors0402:R_100R_0402")
-		(at 254 262.89 0)
+		(at 241.3 262.89 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -34971,7 +34971,7 @@
 		(fields_autoplaced yes)
 		(uuid "b5e4af0b-e17f-4a35-929b-5adacd6aca1b")
 		(property "Reference" "R16"
-			(at 256.54 256.54 0)
+			(at 243.84 256.54 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -34982,7 +34982,7 @@
 			)
 		)
 		(property "Value" "R_100R_0402"
-			(at 274.32 275.59 0)
+			(at 261.62 275.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34995,7 +34995,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:R_0402_1005Metric"
-			(at 274.32 278.13 0)
+			(at 261.62 278.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35008,7 +35008,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.bourns.com/docs/product-datasheets/cr.pdf"
-			(at 274.32 280.67 0)
+			(at 261.62 280.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35021,7 +35021,7 @@
 			)
 		)
 		(property "Description" "SMD Chip Resistor, 100 ohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose"
-			(at 274.32 293.37 0)
+			(at 261.62 293.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35033,7 +35033,7 @@
 			)
 		)
 		(property "MPN" "CR0402-FX-1000GLF"
-			(at 274.32 283.21 0)
+			(at 261.62 283.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35046,7 +35046,7 @@
 			)
 		)
 		(property "Manufacturer" "Bourns"
-			(at 274.32 285.75 0)
+			(at 261.62 285.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35059,7 +35059,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 274.32 288.29 0)
+			(at 261.62 288.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35072,7 +35072,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 274.32 290.83 0)
+			(at 261.62 290.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35085,7 +35085,7 @@
 			)
 		)
 		(property "Val" "100R"
-			(at 256.54 259.08 0)
+			(at 243.84 259.08 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -35096,7 +35096,7 @@
 			)
 		)
 		(property "Tolerance" "1%"
-			(at 274.32 273.05 0)
+			(at 261.62 273.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35124,7 +35124,7 @@
 	)
 	(symbol
 		(lib_id "antmicropower:+3V3")
-		(at 250.19 254 0)
+		(at 237.49 254 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -35134,7 +35134,7 @@
 		(dnp no)
 		(uuid "b9a08af5-6d32-420e-b56b-c9a6186ae2b3")
 		(property "Reference" "#PWR029"
-			(at 265.43 254 0)
+			(at 252.73 254 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35147,7 +35147,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 247.142 250.952 0)
+			(at 234.442 250.952 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -35159,7 +35159,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 265.43 261.62 0)
+			(at 252.73 261.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35172,7 +35172,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 265.43 264.16 0)
+			(at 252.73 264.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35185,7 +35185,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 265.43 266.7 0)
+			(at 252.73 266.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35197,7 +35197,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 265.43 256.54 0)
+			(at 252.73 256.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35210,7 +35210,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 265.43 259.08 0)
+			(at 252.73 259.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38068,7 +38068,7 @@
 	)
 	(symbol
 		(lib_id "antmicropower:GND")
-		(at 219.71 276.86 0)
+		(at 207.01 276.86 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -38078,7 +38078,7 @@
 		(dnp no)
 		(uuid "ca824472-c8e2-46e8-b924-08673b7d9701")
 		(property "Reference" "#PWR028"
-			(at 228.6 279.4 0)
+			(at 215.9 279.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38091,7 +38091,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 219.71 280.67 0)
+			(at 207.01 280.67 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -38102,7 +38102,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 228.6 284.48 0)
+			(at 215.9 284.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38115,7 +38115,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 228.6 289.56 0)
+			(at 215.9 289.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38128,7 +38128,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 228.6 292.1 0)
+			(at 215.9 292.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38140,7 +38140,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 228.6 284.48 0)
+			(at 215.9 284.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38153,7 +38153,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 228.6 287.02 0)
+			(at 215.9 287.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38644,7 +38644,7 @@
 	)
 	(symbol
 		(lib_id "antmicroResistors0402:R_0R_0402")
-		(at 196.85 262.89 0)
+		(at 184.15 262.89 0)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -38655,7 +38655,7 @@
 		(dnp no)
 		(uuid "cdec4d82-1853-4566-846c-ef66530b9975")
 		(property "Reference" "R12"
-			(at 199.644 265.176 0)
+			(at 186.944 265.176 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -38666,7 +38666,7 @@
 			)
 		)
 		(property "Value" "R_0R_0402"
-			(at 217.17 250.19 0)
+			(at 204.47 250.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38679,7 +38679,7 @@
 			)
 		)
 		(property "Footprint" "antmicro-footprints:R_0402_1005Metric"
-			(at 217.17 247.65 0)
+			(at 204.47 247.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38692,7 +38692,7 @@
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
-			(at 217.17 245.11 0)
+			(at 204.47 245.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38705,7 +38705,7 @@
 			)
 		)
 		(property "Description" "SMD Chip Resistor, Jumper, 0 ohm, 100 mW, 0402 [1005 Metric], Thick Film, General Purpose"
-			(at 217.17 229.87 0)
+			(at 204.47 229.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38717,7 +38717,7 @@
 			)
 		)
 		(property "MPN" "ERJ2GE0R00X"
-			(at 217.17 242.57 0)
+			(at 204.47 242.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38730,7 +38730,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 217.17 240.03 0)
+			(at 204.47 240.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38743,7 +38743,7 @@
 			)
 		)
 		(property "License" "Apache-2.0"
-			(at 217.17 237.49 0)
+			(at 204.47 237.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38756,7 +38756,7 @@
 			)
 		)
 		(property "Author" "Antmicro"
-			(at 217.17 234.95 0)
+			(at 204.47 234.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38769,7 +38769,7 @@
 			)
 		)
 		(property "Val" "0R"
-			(at 199.644 267.716 0)
+			(at 186.944 267.716 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -38780,7 +38780,7 @@
 			)
 		)
 		(property "Tolerance" ""
-			(at 217.17 252.73 0)
+			(at 204.47 252.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38792,7 +38792,7 @@
 			)
 		)
 		(property "Current" "1A"
-			(at 217.17 232.41 0)
+			(at 204.47 232.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38933,7 +38933,7 @@
 	)
 	(symbol
 		(lib_id "antmicroResistors0402:R_10k_0402")
-		(at 250.19 255.27 270)
+		(at 237.49 255.27 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -38943,7 +38943,7 @@
 		(dnp no)
 		(uuid "d2edcbc5-c7ed-4884-a4c5-cd811c025807")
 		(property "Reference" "R15"
-			(at 247.65 256.54 90)
+			(at 234.95 256.54 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -38955,83 +38955,6 @@
 			)
 		)
 		(property "Value" "R_10k_0402"
-			(at 237.49 275.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "antmicro-footprints:R_0402_1005Metric"
-			(at 234.95 275.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" "https://www.bourns.com/docs/product-datasheets/cr.pdf"
-			(at 232.41 275.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" "SMD Chip Resistor, 10 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose"
-			(at 219.71 275.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MPN" "CR0402-FX-1002GLF"
-			(at 229.87 275.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Manufacturer" "Bourns"
-			(at 227.33 275.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "License" "Apache-2.0"
 			(at 224.79 275.59 0)
 			(hide yes)
 			(show_name no)
@@ -39044,7 +38967,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Author" "Antmicro"
+		(property "Footprint" "antmicro-footprints:R_0402_1005Metric"
 			(at 222.25 275.59 0)
 			(hide yes)
 			(show_name no)
@@ -39057,8 +38980,85 @@
 				(justify left bottom)
 			)
 		)
+		(property "Datasheet" "https://www.bourns.com/docs/product-datasheets/cr.pdf"
+			(at 219.71 275.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "SMD Chip Resistor, 10 kohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose"
+			(at 207.01 275.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" "CR0402-FX-1002GLF"
+			(at 217.17 275.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Manufacturer" "Bourns"
+			(at 214.63 275.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 212.09 275.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 209.55 275.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
 		(property "Val" "10k"
-			(at 247.65 259.08 90)
+			(at 234.95 259.08 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -39070,7 +39070,7 @@
 			)
 		)
 		(property "Tolerance" "1%"
-			(at 240.03 275.59 0)
+			(at 227.33 275.59 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
