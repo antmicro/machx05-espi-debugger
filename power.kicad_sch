@@ -13386,7 +13386,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "286847d7-7946-4164-b9e9-b8528a6be43d")
-		(property "Reference" "#FLG07"
+		(property "Reference" "#FLG08"
 			(at 233.68 79.375 0)
 			(hide yes)
 			(show_name no)
@@ -13446,7 +13446,7 @@
 		(instances
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/1d07191d-71e0-43c8-9a4f-6404f7e36093"
-					(reference "#FLG07")
+					(reference "#FLG08")
 					(unit 1)
 				)
 			)
