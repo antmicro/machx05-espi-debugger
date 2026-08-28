@@ -2980,4 +2980,26 @@
 		)
 	)
 	(embedded_fonts no)
+	(embedded_files
+		(file
+			(name "antmicro_worksheet.kicad_wks")
+			(type worksheet)
+			(data |KLUv/WD/Cm0XANZhaiEA1TZqxSYVHAFTHB2ryTIBCLPYn/C3SVyHRrZZ+v8JBRNgAFsAZACUXw+Y
+				X7zbo/91+NG/0eBNq2es2aAH85lLFq46qW9+xKKbMVmw7DWr3xIuf3SfAAAEPqC/JZ20Uhhq68fj
+				xZAfyrd+cN98NQRAoKDVWitLrWeNy31DBECg7IgwIyjiDiEcyV5OwzCktQIEPutM9ct6qT9UpfxH
+				98O/aHVZp1egQBptMWN/8H6u033z1uKTTp1SHVGToV/y8fvdvI8ZpDfolH++Ho8WLaXTeq0+5ms1
+				y/qmbXOz1X+DX1IBNJuWJTCcBKOn0epZuknoTixmbfOqlDcqhs2qQSIeZdJZMAkO4TVMA1vRWTFr
+				Xl6rbVpNZ/3wL/FdUH5FMFNp2Kwcy7RZnbqPS2C6CoXimQZ+uA8m9t6kfT9f0UkZ/CWIc1mvAYGC
+				rXVmH4TzJpwlg3iDlmvaSq1sm5eVVTo3zKrzstbSa27VN81JGfx4NALbsqlVP10gnOQRQZgGWjYz
+				xsdJvq5jUCxrp9U9OEjn8BRY8dE/kjr0QoVp1vF530eN2P/eDcUKgIigUbFCytjISAqSFJoDUISM
+				kat6Ubqpcq0qBdrp8LYhpqMJXqNT+56WlB3VUCy2BnWJR1fsIlS2OqWmeHxDpkhdOCYfgpgJ8jHB
+				EI21wH3csLcdIV+wDRr3AcjKGn+s2t1jhNWFtEsGC2JHDltFOIiBBzvW22M0XfV6t21f9XRCoj1z
+				kZFp/wQqLFB7umPKT8pTJgI2ETx1HHKeVAAWp9u+dtSR3Fgx8g5j4XnJJzGtnpNjC5WnKao+eiCi
+				0TeO/jDcCemEcr/HFARK6qNNo/czQEd44JQJU/0A3picRBrfyd2TWfT4Onf6RZIr09h8tnvLRoES
+				ihyhR75Apo2R3QDe40S9IRQoeexXPeMZQ83J9muBImPU4+IIbAsh+y+bAiS3bsWMD61Ej692ccTR
+				fq0mAW9ktsBN8x/f6BGc8WGq|
+			)
+			(checksum "541E1CC13A1E425E478B5A2EF92CB59C")
+		)
+	)
 )

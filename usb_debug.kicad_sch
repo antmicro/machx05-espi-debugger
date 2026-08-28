@@ -5974,6 +5974,16 @@
 		)
 		(uuid "8040423f-bab2-4fa9-a9d6-9c56b3d337b5")
 	)
+	(text "Note: TC adapter shorts pin 3 to GND\nthis will keep FTDI in reset"
+		(exclude_from_sim no)
+		(at 64.77 191.262 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8a43b90a-bb4d-46db-8c9b-eb5fc72db837")
+	)
 	(junction
 		(at 180.34 62.23)
 		(diameter 0)
@@ -6017,6 +6027,12 @@
 		(uuid "36a5b22c-fef9-472b-af97-1e5c0a968abb")
 	)
 	(junction
+		(at 60.96 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "381090d9-c0e7-4659-86a7-a37a574172bc")
+	)
+	(junction
 		(at 134.62 172.72)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6035,10 +6051,10 @@
 		(uuid "5bf2bd34-16b7-41cd-bf5b-d0c40bf86570")
 	)
 	(junction
-		(at 48.26 177.8)
+		(at 64.77 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "610e92f7-88c9-43ce-909f-4478ae6ec059")
+		(uuid "5e0ad1ad-3ff3-4bc5-aab0-7301a0937c3c")
 	)
 	(junction
 		(at 144.78 149.86)
@@ -6565,6 +6581,16 @@
 	)
 	(wire
 		(pts
+			(xy 67.31 132.08) (xy 64.77 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18f57223-609c-4364-a999-dfc29fc0a285")
+	)
+	(wire
+		(pts
 			(xy 179.07 113.03) (xy 179.07 120.65)
 		)
 		(stroke
@@ -6805,6 +6831,16 @@
 	)
 	(wire
 		(pts
+			(xy 64.77 132.08) (xy 64.77 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "371b8330-cefc-408e-b755-98436dda2020")
+	)
+	(wire
+		(pts
 			(xy 38.1 134.62) (xy 41.91 134.62)
 		)
 		(stroke
@@ -6822,6 +6858,16 @@
 			(type default)
 		)
 		(uuid "38a2d41d-a791-4b2f-9793-e59ed09044fc")
+	)
+	(wire
+		(pts
+			(xy 64.77 137.16) (xy 64.77 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3aaa5871-ed21-4e25-8ca6-c5f69e3c74db")
 	)
 	(wire
 		(pts
@@ -7075,6 +7121,16 @@
 	)
 	(wire
 		(pts
+			(xy 64.77 134.62) (xy 67.31 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59fa24d2-0b7d-4e87-ba1b-e5eec3c19628")
+	)
+	(wire
+		(pts
 			(xy 156.21 40.64) (xy 144.78 40.64)
 		)
 		(stroke
@@ -7175,6 +7231,16 @@
 	)
 	(wire
 		(pts
+			(xy 60.96 135.89) (xy 60.96 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6623d218-a8c5-4146-abee-444918109aed")
+	)
+	(wire
+		(pts
 			(xy 110.49 67.31) (xy 121.92 67.31)
 		)
 		(stroke
@@ -7215,6 +7281,26 @@
 	)
 	(wire
 		(pts
+			(xy 64.77 129.54) (xy 67.31 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e711919-981e-4982-94f4-9c01dbd964e8")
+	)
+	(wire
+		(pts
+			(xy 60.96 129.54) (xy 64.77 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ef84001-3d49-4451-96c9-3c0c3587d09f")
+	)
+	(wire
+		(pts
 			(xy 156.21 62.23) (xy 180.34 62.23)
 		)
 		(stroke
@@ -7242,6 +7328,16 @@
 			(type default)
 		)
 		(uuid "7262cc59-8ce0-433b-aa68-ce93457bef98")
+	)
+	(wire
+		(pts
+			(xy 40.64 172.72) (xy 49.53 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73920f53-525d-40c7-8336-dc7cd8e057fe")
 	)
 	(wire
 		(pts
@@ -7325,16 +7421,6 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 172.72) (xy 48.26 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "78bf5f8d-e438-4d7b-a70a-5e39542e657a")
-	)
-	(wire
-		(pts
 			(xy 140.97 114.3) (xy 140.97 105.41)
 		)
 		(stroke
@@ -7352,6 +7438,16 @@
 			(type default)
 		)
 		(uuid "793ccba9-b0f4-47c9-b64c-80ebe31e208d")
+	)
+	(wire
+		(pts
+			(xy 60.96 129.54) (xy 60.96 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7af6c057-3ee2-404f-bbf0-4e04a835cc5e")
 	)
 	(wire
 		(pts
@@ -7655,16 +7751,6 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 172.72) (xy 49.53 172.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9fb0c0c0-483e-4088-bf67-9502f3612a32")
-	)
-	(wire
-		(pts
 			(xy 115.57 97.79) (xy 111.76 97.79)
 		)
 		(stroke
@@ -7772,16 +7858,6 @@
 			(type default)
 		)
 		(uuid "ab6cd878-9b6d-4f71-8b62-850a40264795")
-	)
-	(wire
-		(pts
-			(xy 78.74 73.66) (xy 53.34 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ace17f99-526b-42fa-adb4-a87be0e326ac")
 	)
 	(wire
 		(pts
@@ -8305,6 +8381,16 @@
 	)
 	(wire
 		(pts
+			(xy 53.34 73.66) (xy 78.74 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e81458af-d78e-4538-9c75-ad32636611e3")
+	)
+	(wire
+		(pts
 			(xy 55.88 106.68) (xy 55.88 109.22)
 		)
 		(stroke
@@ -8412,6 +8498,16 @@
 			(type default)
 		)
 		(uuid "f7cfb02e-f8bd-42f7-8bb2-7305c679c2e1")
+	)
+	(wire
+		(pts
+			(xy 58.42 129.54) (xy 60.96 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f84e3731-571d-4070-8044-d26237db7f08")
 	)
 	(wire
 		(pts
@@ -8743,6 +8839,16 @@
 		)
 		(uuid "c05e6cb7-060e-4691-b8cb-be786ff22c2c")
 	)
+	(label "~{RESET}"
+		(at 40.64 172.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c1481f75-1b5e-4efa-b0d4-e3fc3e4d547e")
+	)
 	(label "CC1"
 		(at 54.61 78.74 0)
 		(effects
@@ -8802,6 +8908,17 @@
 			(justify right bottom)
 		)
 		(uuid "fe81013f-7b41-4139-a655-7ecd9c847208")
+	)
+	(hierarchical_label "VBUS"
+		(shape output)
+		(at 58.42 129.54 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "018beb15-ab62-4c96-ac10-c3828889555d")
 	)
 	(hierarchical_label "VBUS"
 		(shape output)
@@ -13723,6 +13840,188 @@
 		)
 	)
 	(symbol
+		(lib_id "antmicroCapacitors0402:C_4u7_10V_X7T_0402")
+		(at 60.96 135.89 270)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "53d33db5-c193-4a65-9a0b-e7603c312f50")
+		(property "Reference" "C83"
+			(at 58.42 132.0736 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "C_4u7_10V_X7T_0402"
+			(at 50.8 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:C_0402_1005Metric"
+			(at 48.26 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" "https://eu.mouser.com/datasheet/2/281/1/GRM155D71A475ME15_01A-3155331.pdf"
+			(at 45.72 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "Multilayer Ceramic Capacitors MLCC - SMD/SMT 4.7UF 10V 20% 0402"
+			(at 25.4 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MPN" "GRM155D71A475ME15D"
+			(at 40.64 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Manufacturer" "Murata"
+			(at 38.1 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 35.56 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 33.02 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Val" "4u7"
+			(at 58.42 134.6136 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify right)
+			)
+		)
+		(property "Voltage" "10V"
+			(at 30.48 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Dielectric" "X7T"
+			(at 27.94 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "2"
+			(uuid "817ea962-fff7-465f-894e-881f8f2cb915")
+		)
+		(pin "1"
+			(uuid "ffa82e32-33b1-4c09-ba36-a10ca3a98fca")
+		)
+		(instances
+			(project "machxo5-espi-debugger"
+				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/1d8da698-0d26-4a54-ae2a-b123e41282d5"
+					(reference "C83")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "antmicropower:GND")
 		(at 111.76 111.76 0)
 		(unit 1)
@@ -14565,6 +14864,117 @@
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/1d8da698-0d26-4a54-ae2a-b123e41282d5"
 					(reference "#PWR0104")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicropower:GND")
+		(at 64.77 137.16 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "6b9e8472-bfb7-4279-a1d9-aedf47d65f52")
+		(property "Reference" "#PWR0126"
+			(at 73.66 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "GND"
+			(at 64.77 141.224 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 73.66 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 73.66 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" ""
+			(at 73.66 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 73.66 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 73.66 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "8f3e6f89-3aa2-48df-b73c-17b57ed5e5e3")
+		)
+		(instances
+			(project "machxo5-espi-debugger"
+				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/1d8da698-0d26-4a54-ae2a-b123e41282d5"
+					(reference "#PWR0126")
 					(unit 1)
 				)
 			)
@@ -16226,6 +16636,148 @@
 		)
 	)
 	(symbol
+		(lib_id "antmicroTVSDiodes:TPD2E009_SOT-9X3")
+		(at 67.31 129.54 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9d75bc26-9fd7-4178-af8f-ab906e342875")
+		(property "Reference" "D17"
+			(at 77.47 131.445 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "TPD2E009_SOT-9X3"
+			(at 82.55 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "antmicro-footprints:SOT-723"
+			(at 82.55 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tpd2e009.pdf?ts=1597910439511&ref_url=https%253A%252F%252Fwww.google.com%252F"
+			(at 82.55 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" "TVS diode array, 8 kV, SOT-723, 5.5 V, 0.9 pF"
+			(at 67.31 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TPD2E009DRTR"
+			(at 77.47 133.985 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 82.55 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 82.55 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 82.55 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "a89c69ad-d33b-4cb4-acb9-05d0b234c5f8")
+		)
+		(pin "2"
+			(uuid "d83770a9-801a-460c-b17c-42bc3a5d5bf8")
+		)
+		(pin "3"
+			(uuid "4eae2572-db8c-4f70-9bda-162dd58faee0")
+		)
+		(instances
+			(project "machxo5-espi-debugger"
+				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/1d8da698-0d26-4a54-ae2a-b123e41282d5"
+					(reference "D17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "antmicropower:+3V3")
 		(at 114.3 148.59 0)
 		(unit 1)
@@ -16691,6 +17243,118 @@
 			(project "machxo5-espi-debugger"
 				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/1d8da698-0d26-4a54-ae2a-b123e41282d5"
 					(reference "TP7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "antmicropower:GND")
+		(at 60.96 137.16 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ab1816df-b03a-4fda-b4f6-758cb21e5330")
+		(property "Reference" "#PWR0127"
+			(at 52.07 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "GND"
+			(at 60.96 141.224 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 52.07 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 52.07 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Description" ""
+			(at 52.07 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Author" "Antmicro"
+			(at 52.07 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "License" "Apache-2.0"
+			(at 52.07 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "1"
+			(uuid "5404183b-1355-4bd3-96ba-603b29b0c85e")
+		)
+		(instances
+			(project "machxo5-espi-debugger"
+				(path "/df391740-647e-4ab6-9dcd-d61184d66fe9/1d8da698-0d26-4a54-ae2a-b123e41282d5"
+					(reference "#PWR0127")
 					(unit 1)
 				)
 			)
