@@ -18567,33 +18567,43 @@
 		)
 		(pin "8"
 			(uuid "c8f31294-54d7-4509-a116-e1c3555045dd")
+			(alternate "JTAG_TDI")
 		)
 		(pin "10"
 			(uuid "4580debe-f48d-43d8-bd80-beda2fac6856")
+			(alternate "JTAG_~{RESET}")
 		)
 		(pin "9"
 			(uuid "8ad00e85-0531-4e0d-b7e9-96b6509e359f")
+			(alternate "GND")
 		)
 		(pin "7"
 			(uuid "ea45c6bc-ba33-4d45-804e-6704fdbcd676")
+			(alternate "NC")
 		)
 		(pin "5"
 			(uuid "89475891-6179-452c-a8f8-b113376bfd73")
+			(alternate "GND")
 		)
 		(pin "4"
 			(uuid "dbecd29e-723a-44ba-988b-f6c8d9431656")
+			(alternate "JTAG_TCK")
 		)
 		(pin "3"
 			(uuid "eb754e3b-a958-4b3d-bb18-b7ec16e00021")
+			(alternate "GND")
 		)
 		(pin "2"
 			(uuid "683dd678-b1b6-437c-bade-be7823780574")
+			(alternate "JTAG_TMS")
 		)
 		(pin "1"
 			(uuid "91513935-51c2-4b9b-80d0-984d2e5f7667")
+			(alternate "3V3")
 		)
 		(pin "6"
 			(uuid "71e145ab-1e03-47e9-a185-262c30b508f8")
+			(alternate "JTAG_TDO")
 		)
 		(instances
 			(project "machxo5-espi-debugger"
