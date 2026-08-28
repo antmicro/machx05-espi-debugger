@@ -9010,7 +9010,7 @@
 	)
 	(text "Status LEDs"
 		(exclude_from_sim no)
-		(at 216.154 132.334 0)
+		(at 197.104 132.08 0)
 		(effects
 			(font
 				(size 4 4)
@@ -9023,7 +9023,7 @@
 	)
 	(text "+1V8 LDO"
 		(exclude_from_sim no)
-		(at 97.79 144.78 0)
+		(at 46.482 132.08 0)
 		(effects
 			(font
 				(size 4 4)
@@ -9056,7 +9056,7 @@
 	)
 	(text "+1V0 DC/DC (MachXO5 V_{core})"
 		(exclude_from_sim no)
-		(at 177.8 78.232 0)
+		(at 108.712 77.47 0)
 		(effects
 			(font
 				(size 4 4)
@@ -9069,7 +9069,7 @@
 	)
 	(text "+3V3 DC/DC"
 		(exclude_from_sim no)
-		(at 155.956 19.558 0)
+		(at 54.356 20.574 0)
 		(effects
 			(font
 				(size 4 4)
