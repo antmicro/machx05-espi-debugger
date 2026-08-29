@@ -9,7 +9,7 @@
 	(paper "A4")
 	(title_block
 		(title "MachXO5 eSPI Debugger")
-		(date "2026-08-28")
+		(date "2026-08-29")
 		(rev "1.0.0")
 		(company "Antmicro")
 	)
